@@ -1,0 +1,1001 @@
+Student Age,Income,Demographics,Learning Methods,Listening Skills,Study Hours per Week,Tech Proficiency,Attendance Rate,Time Management Skills,Motivation Level,Family Support,Correct Response Rate,Response Time (ms),Confidence Level,Recommended Learning Path,Intervention Flag,Content Difficulty Level,Number of Tutor Sessions,Engagement with Supplemental Resources,Personalization Score
+30,76472,Urban,Online,Visual,36,Intermediate,74.87,Average,6,Low,0.99,9067,8.2,"Algorithms, Data Structures, System Design",False,Easy,4,0.7,0.34
+29,64487,Suburban,Offline,Visual,22,Intermediate,68.4,Poor,1,Low,0.57,6868,6.1,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.97,0.09
+27,98183,Suburban,Offline,Kinesthetic,37,Advanced,53.13,Average,7,Medium,0.97,3187,4.3,"Algorithms, Data Structures, System Design",False,Medium,0,0.83,0.05
+24,88189,Urban,Online,Hearing,5,Advanced,61.14,Poor,5,High,0.91,8985,5.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,4,0.11,0.02
+21,82920,Suburban,Offline,Kinesthetic,2,Advanced,57.89,Average,2,Low,0.82,2162,7.7,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.0,0.27
+18,65509,Rural,Online,Hearing,9,Beginner,50.3,Poor,5,Low,0.55,6964,9.5,"Linear Regression, Neural Networks, Deep Learning",True,Easy,3,0.21,0.37
+32,45628,Rural,Hybrid,Visual,2,Intermediate,67.27,Poor,4,Medium,0.86,11059,3.1,"Algorithms, Data Structures, System Design",True,Medium,13,0.62,0.41
+26,54808,Suburban,Hybrid,Visual,5,Beginner,60.47,Good,3,Low,0.87,7386,7.6,"Algorithms, Data Structures, System Design",True,Medium,5,0.61,0.63
+23,29773,Suburban,Online,Visual,39,Advanced,63.0,Average,3,Medium,0.52,11495,4.6,"Linear Regression, Neural Networks, Deep Learning",True,Medium,12,0.49,1.0
+26,73256,Rural,Offline,Visual,24,Advanced,89.92,Poor,8,Low,0.64,18047,8.5,"Algorithms, Data Structures, System Design",False,Hard,12,0.58,0.19
+20,12911,Suburban,Hybrid,Hearing,37,Beginner,98.84,Poor,5,Medium,0.51,5206,8.3,"Linear Regression, Neural Networks, Deep Learning",True,Hard,10,0.21,0.54
+26,72749,Urban,Offline,Kinesthetic,38,Advanced,71.42,Good,8,Low,0.55,18537,8.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,9,0.89,0.36
+29,90244,Suburban,Offline,Kinesthetic,16,Advanced,55.78,Good,8,Low,0.85,19798,7.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,2,0.88,0.96
+18,16067,Urban,Online,Hearing,13,Beginner,93.98,Good,6,Medium,0.86,14090,7.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,0,0.19,0.11
+31,44734,Suburban,Hybrid,Kinesthetic,24,Advanced,63.85,Good,2,High,0.83,17333,4.6,"Linear Regression, Neural Networks, Deep Learning",True,Hard,7,0.6,0.71
+18,73395,Urban,Hybrid,Hearing,6,Beginner,74.86,Good,5,Medium,0.54,11878,7.4,"Algorithms, Data Structures, System Design",False,Easy,6,0.47,0.89
+30,57911,Suburban,Online,Visual,27,Intermediate,97.75,Average,4,High,0.58,6859,6.2,"Linear Regression, Neural Networks, Deep Learning",False,Easy,5,0.31,0.88
+26,88492,Rural,Hybrid,Hearing,16,Intermediate,68.96,Good,1,High,0.75,1228,8.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,5,0.02,0.75
+28,62744,Urban,Online,Hearing,16,Advanced,82.62,Poor,6,Low,0.91,12838,8.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,12,0.2,0.78
+31,11100,Urban,Hybrid,Kinesthetic,10,Advanced,71.49,Poor,7,Medium,0.98,2903,9.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,4,0.43,0.81
+31,96326,Rural,Online,Kinesthetic,2,Intermediate,90.44,Average,6,Low,0.64,3616,5.8,"Linear Regression, Neural Networks, Deep Learning",False,Hard,9,0.61,0.22
+18,64842,Suburban,Hybrid,Hearing,37,Intermediate,77.55,Good,9,Medium,0.89,17324,7.7,"Algorithms, Data Structures, System Design",True,Easy,14,0.22,0.53
+24,24073,Urban,Online,Visual,34,Advanced,72.72,Poor,8,Medium,0.72,9284,8.4,"Linear Regression, Neural Networks, Deep Learning",False,Hard,11,0.35,0.16
+22,37512,Urban,Hybrid,Visual,1,Beginner,71.59,Average,9,High,0.85,2458,2.1,"Linear Regression, Neural Networks, Deep Learning",True,Easy,2,0.45,0.29
+31,52925,Rural,Offline,Kinesthetic,10,Beginner,72.22,Good,3,Medium,0.9,17952,4.0,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.56,0.61
+27,49728,Urban,Offline,Hearing,3,Beginner,64.56,Good,1,High,0.89,12247,9.3,"Algorithms, Data Structures, System Design",False,Hard,0,0.64,0.12
+33,48367,Suburban,Online,Visual,27,Intermediate,69.31,Poor,4,High,0.73,4876,5.0,"Algorithms, Data Structures, System Design",True,Hard,1,0.99,0.23
+27,84644,Urban,Hybrid,Hearing,35,Advanced,82.77,Good,6,Medium,0.5,7928,5.6,"Algorithms, Data Structures, System Design",False,Easy,4,0.24,0.02
+29,61804,Urban,Online,Visual,13,Advanced,87.53,Average,9,Medium,0.77,13590,8.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,6,0.04,0.76
+33,72121,Urban,Offline,Kinesthetic,20,Advanced,58.08,Good,6,Low,0.71,2542,9.9,"Linear Regression, Neural Networks, Deep Learning",False,Medium,11,0.68,0.34
+18,90987,Suburban,Offline,Hearing,16,Intermediate,52.23,Good,3,Medium,0.89,10765,3.4,"Linear Regression, Neural Networks, Deep Learning",True,Hard,8,0.59,0.58
+31,55286,Urban,Hybrid,Visual,17,Intermediate,76.95,Poor,3,High,0.83,12657,2.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,2,0.79,0.12
+25,77372,Rural,Offline,Kinesthetic,3,Beginner,75.85,Poor,9,Low,0.69,10461,7.5,"Algorithms, Data Structures, System Design",True,Medium,8,0.15,0.73
+19,53496,Suburban,Hybrid,Visual,11,Advanced,96.4,Average,9,Medium,0.83,5573,8.7,"Linear Regression, Neural Networks, Deep Learning",False,Hard,14,0.01,0.07
+30,40466,Urban,Hybrid,Visual,1,Intermediate,76.48,Average,3,Medium,0.74,1375,9.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,0,0.04,0.61
+33,30015,Rural,Offline,Hearing,29,Beginner,65.53,Poor,2,Low,0.54,9268,8.4,"Algorithms, Data Structures, System Design",True,Hard,3,0.02,0.06
+19,63631,Urban,Online,Kinesthetic,17,Beginner,61.76,Poor,2,Medium,0.87,8895,6.3,"Algorithms, Data Structures, System Design",True,Medium,8,0.66,0.54
+22,94811,Suburban,Offline,Kinesthetic,20,Intermediate,77.68,Poor,3,Low,0.94,17958,8.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,8,0.67,0.51
+19,11559,Urban,Hybrid,Visual,28,Advanced,67.06,Good,5,High,0.71,18337,4.2,"Linear Regression, Neural Networks, Deep Learning",True,Medium,10,0.24,0.95
+18,80220,Suburban,Online,Hearing,20,Advanced,53.6,Average,7,Low,0.76,16111,9.3,"Algorithms, Data Structures, System Design",False,Easy,6,0.54,0.32
+31,20479,Rural,Hybrid,Kinesthetic,3,Intermediate,89.81,Good,9,High,0.74,19596,2.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,4,0.31,0.81
+29,79360,Suburban,Hybrid,Visual,31,Intermediate,94.05,Average,8,Medium,0.54,12925,4.9,"Linear Regression, Neural Networks, Deep Learning",False,Hard,8,0.68,0.06
+25,92431,Suburban,Offline,Hearing,14,Beginner,90.8,Good,7,Low,0.99,10404,2.5,"Linear Regression, Neural Networks, Deep Learning",False,Medium,13,0.62,0.17
+19,57657,Suburban,Offline,Kinesthetic,6,Intermediate,63.33,Poor,9,Low,0.73,13387,7.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,2,0.72,0.88
+31,80589,Rural,Hybrid,Visual,25,Advanced,72.42,Average,9,Medium,0.75,19050,8.6,"Linear Regression, Neural Networks, Deep Learning",False,Easy,7,0.61,0.44
+24,49043,Rural,Online,Visual,19,Beginner,66.77,Poor,1,Low,0.75,14219,8.6,"Algorithms, Data Structures, System Design",True,Medium,5,0.45,0.75
+33,71045,Rural,Hybrid,Visual,6,Beginner,66.51,Good,6,Low,0.67,2378,4.0,"Algorithms, Data Structures, System Design",True,Medium,5,0.61,0.18
+23,88865,Rural,Hybrid,Hearing,21,Beginner,79.84,Poor,9,Medium,0.73,19157,7.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,14,0.11,0.68
+27,26896,Rural,Online,Kinesthetic,16,Intermediate,99.63,Average,6,Medium,0.59,5547,2.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,5,0.5,0.93
+33,81883,Rural,Online,Hearing,39,Advanced,61.79,Poor,1,High,0.57,5905,8.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,0,0.48,0.06
+22,75537,Suburban,Offline,Kinesthetic,34,Beginner,74.39,Poor,2,High,0.85,4943,9.6,"Algorithms, Data Structures, System Design",True,Easy,14,0.97,0.29
+30,28137,Suburban,Online,Hearing,33,Intermediate,71.55,Average,5,Medium,0.99,14643,2.4,"Linear Regression, Neural Networks, Deep Learning",True,Easy,10,0.98,0.53
+30,62450,Suburban,Offline,Visual,26,Beginner,82.79,Poor,2,Medium,0.95,3278,6.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,6,0.13,0.29
+26,24007,Suburban,Hybrid,Hearing,38,Advanced,82.32,Poor,5,Medium,0.63,16044,5.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,9,0.92,0.87
+28,96083,Rural,Hybrid,Kinesthetic,31,Beginner,86.15,Poor,3,Medium,0.92,17796,5.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,13,0.72,0.83
+34,54405,Urban,Online,Visual,9,Intermediate,64.76,Poor,8,Medium,0.64,7393,3.0,"Linear Regression, Neural Networks, Deep Learning",True,Easy,4,0.0,0.21
+27,49198,Rural,Online,Hearing,23,Beginner,71.27,Poor,4,High,0.64,18176,8.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,11,0.1,0.67
+30,64922,Urban,Online,Visual,14,Beginner,59.61,Average,1,Low,0.89,19214,5.2,"Linear Regression, Neural Networks, Deep Learning",False,Hard,11,0.09,0.25
+28,15910,Rural,Online,Hearing,30,Advanced,93.01,Good,3,Low,0.97,4976,3.7,"Algorithms, Data Structures, System Design",False,Hard,13,0.21,0.22
+34,47867,Urban,Offline,Kinesthetic,4,Advanced,96.16,Average,7,High,0.52,13610,4.9,"Algorithms, Data Structures, System Design",False,Easy,6,0.04,0.09
+19,88909,Urban,Offline,Visual,6,Intermediate,72.34,Poor,4,Low,0.67,17552,2.5,"Algorithms, Data Structures, System Design",False,Hard,10,0.11,0.61
+24,48883,Suburban,Hybrid,Kinesthetic,39,Intermediate,66.89,Good,6,High,0.67,9990,2.6,"Algorithms, Data Structures, System Design",True,Easy,7,0.59,0.18
+26,74955,Urban,Online,Kinesthetic,11,Beginner,98.21,Good,4,Low,0.88,16492,5.3,"Linear Regression, Neural Networks, Deep Learning",True,Medium,10,0.82,0.37
+27,14850,Urban,Hybrid,Hearing,18,Intermediate,80.76,Good,5,Low,0.68,16764,7.8,"Algorithms, Data Structures, System Design",True,Easy,0,0.4,0.63
+32,28109,Urban,Online,Visual,31,Beginner,55.78,Average,3,Low,0.56,19603,2.2,"Algorithms, Data Structures, System Design",True,Hard,1,0.27,0.91
+25,67848,Suburban,Online,Hearing,19,Intermediate,90.43,Poor,8,Low,0.98,14932,1.4,"Algorithms, Data Structures, System Design",True,Easy,2,0.08,0.46
+27,75512,Suburban,Online,Kinesthetic,18,Intermediate,58.0,Good,1,Medium,0.79,13346,3.8,"Algorithms, Data Structures, System Design",True,Medium,9,0.41,0.21
+34,62219,Urban,Online,Visual,22,Beginner,65.28,Average,4,Low,0.6,19020,3.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,2,0.1,0.92
+33,96152,Rural,Online,Hearing,26,Beginner,81.48,Good,7,Low,0.6,16092,5.5,"Algorithms, Data Structures, System Design",False,Hard,13,0.15,0.99
+22,42112,Urban,Online,Kinesthetic,39,Intermediate,72.53,Average,1,High,0.56,19671,5.1,"Linear Regression, Neural Networks, Deep Learning",True,Easy,9,0.25,0.29
+33,27443,Urban,Hybrid,Kinesthetic,25,Beginner,87.72,Average,9,High,0.73,19556,6.1,"Linear Regression, Neural Networks, Deep Learning",True,Hard,10,0.81,0.9
+27,35477,Rural,Hybrid,Visual,35,Intermediate,54.26,Good,6,Medium,0.54,17865,7.0,"Algorithms, Data Structures, System Design",False,Medium,3,0.95,0.17
+23,46130,Rural,Offline,Hearing,2,Advanced,99.41,Good,4,High,0.96,10285,3.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,8,0.52,0.45
+24,94218,Suburban,Offline,Kinesthetic,20,Intermediate,85.36,Good,4,Medium,0.54,4528,2.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,4,0.06,0.61
+23,63956,Rural,Offline,Kinesthetic,34,Advanced,57.8,Poor,3,Low,0.93,16029,2.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,2,0.13,0.7
+29,20140,Suburban,Hybrid,Kinesthetic,2,Beginner,52.76,Poor,6,Low,0.91,2148,9.0,"Algorithms, Data Structures, System Design",True,Easy,2,0.08,0.32
+30,71500,Rural,Online,Visual,18,Advanced,77.08,Average,8,Low,0.82,17925,3.2,"Linear Regression, Neural Networks, Deep Learning",True,Medium,6,0.56,0.0
+20,38895,Rural,Offline,Visual,36,Advanced,82.92,Average,7,High,0.78,2310,9.1,"Linear Regression, Neural Networks, Deep Learning",True,Easy,4,0.98,0.22
+29,58790,Urban,Online,Kinesthetic,9,Beginner,54.67,Average,9,Low,0.78,12403,3.8,"Linear Regression, Neural Networks, Deep Learning",True,Hard,2,0.16,0.59
+32,49369,Rural,Hybrid,Hearing,27,Intermediate,88.99,Average,1,High,0.86,7720,8.4,"Algorithms, Data Structures, System Design",True,Medium,5,0.34,0.76
+19,54981,Suburban,Online,Hearing,25,Intermediate,66.08,Poor,7,Medium,0.55,8324,3.7,"Algorithms, Data Structures, System Design",True,Medium,5,0.45,0.06
+30,74203,Rural,Hybrid,Visual,27,Beginner,85.19,Good,1,Medium,0.52,7409,5.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,0,0.4,0.09
+23,54464,Rural,Hybrid,Hearing,33,Intermediate,77.13,Good,2,High,0.8,11289,6.0,"Linear Regression, Neural Networks, Deep Learning",True,Easy,2,0.51,0.9
+24,16301,Urban,Online,Hearing,16,Beginner,74.1,Poor,1,Medium,0.85,3609,2.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,0,0.21,0.22
+30,10124,Urban,Hybrid,Kinesthetic,8,Intermediate,62.34,Good,7,Medium,1.0,3679,6.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,3,0.64,0.03
+32,47682,Rural,Online,Kinesthetic,18,Beginner,75.38,Poor,3,High,0.6,12272,1.0,"Linear Regression, Neural Networks, Deep Learning",True,Hard,12,0.97,0.04
+18,57291,Rural,Offline,Visual,3,Intermediate,67.82,Average,9,Medium,0.98,11023,8.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,4,0.27,0.44
+31,84250,Rural,Online,Kinesthetic,31,Beginner,56.53,Average,6,Low,0.63,4898,7.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,10,0.79,0.5
+25,52094,Suburban,Online,Kinesthetic,9,Advanced,84.01,Good,1,High,0.68,5612,2.9,"Algorithms, Data Structures, System Design",True,Hard,1,0.93,0.4
+18,15157,Rural,Offline,Hearing,18,Intermediate,84.58,Poor,8,High,0.65,16570,7.3,"Algorithms, Data Structures, System Design",False,Hard,2,0.44,0.84
+18,53128,Urban,Offline,Hearing,5,Intermediate,77.15,Average,9,High,0.57,18661,6.7,"Algorithms, Data Structures, System Design",False,Hard,2,0.68,0.32
+25,41789,Rural,Offline,Hearing,26,Advanced,72.95,Poor,3,Medium,0.77,18511,9.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,12,0.72,0.84
+29,86162,Suburban,Online,Hearing,36,Beginner,65.71,Poor,4,High,0.77,3933,1.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,9,0.55,0.33
+23,50110,Rural,Online,Kinesthetic,9,Intermediate,51.21,Poor,3,Medium,0.91,5895,8.8,"Linear Regression, Neural Networks, Deep Learning",True,Easy,12,0.52,0.54
+26,66462,Suburban,Offline,Visual,14,Intermediate,76.62,Good,4,High,0.76,7114,9.6,"Algorithms, Data Structures, System Design",False,Medium,4,0.15,0.34
+26,59550,Rural,Offline,Kinesthetic,23,Advanced,67.62,Poor,2,High,0.73,19753,9.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,11,0.76,0.09
+20,90546,Rural,Offline,Hearing,37,Advanced,78.99,Poor,9,Medium,0.51,5600,9.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,3,0.89,0.28
+32,87799,Urban,Hybrid,Kinesthetic,29,Advanced,97.77,Poor,8,High,0.86,3673,4.0,"Algorithms, Data Structures, System Design",False,Medium,11,0.73,0.6
+34,85233,Suburban,Online,Hearing,8,Advanced,77.51,Good,9,Low,0.78,2634,6.0,"Algorithms, Data Structures, System Design",False,Easy,4,0.64,0.21
+23,40297,Rural,Hybrid,Hearing,37,Advanced,81.75,Poor,3,Low,0.91,1455,5.0,"Linear Regression, Neural Networks, Deep Learning",True,Easy,13,0.2,0.96
+31,44708,Rural,Offline,Kinesthetic,8,Intermediate,65.82,Poor,9,High,0.59,2796,5.9,"Algorithms, Data Structures, System Design",False,Hard,2,0.45,0.43
+20,38605,Suburban,Online,Hearing,34,Intermediate,65.37,Average,2,Low,0.99,2688,7.9,"Algorithms, Data Structures, System Design",True,Hard,6,0.43,0.47
+22,59835,Urban,Offline,Visual,8,Beginner,69.14,Poor,1,Medium,0.87,3926,5.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,10,0.77,0.35
+26,33216,Urban,Hybrid,Kinesthetic,9,Intermediate,53.7,Average,4,Medium,0.84,12661,1.7,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.15,0.33
+22,21519,Suburban,Hybrid,Hearing,9,Advanced,89.72,Good,7,Low,0.57,9691,4.1,"Algorithms, Data Structures, System Design",True,Hard,7,0.93,0.3
+21,34642,Rural,Hybrid,Visual,25,Intermediate,75.91,Average,7,Medium,0.54,15848,4.5,"Algorithms, Data Structures, System Design",False,Easy,12,0.51,0.52
+33,11434,Urban,Offline,Kinesthetic,13,Intermediate,92.7,Average,5,Medium,0.9,19883,1.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,1,0.95,0.15
+18,12435,Suburban,Offline,Hearing,7,Intermediate,81.74,Poor,8,Medium,0.99,15579,3.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,4,0.8,0.38
+18,28590,Suburban,Online,Hearing,29,Intermediate,85.96,Good,8,Low,0.87,6010,8.0,"Algorithms, Data Structures, System Design",False,Hard,10,0.76,0.44
+28,49802,Urban,Offline,Hearing,10,Intermediate,76.75,Poor,7,Medium,0.63,2282,1.1,"Algorithms, Data Structures, System Design",True,Easy,14,0.2,0.04
+33,43645,Urban,Offline,Hearing,34,Advanced,83.42,Average,5,High,0.87,12489,8.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,8,0.4,0.87
+33,26591,Rural,Online,Hearing,20,Intermediate,72.19,Good,9,Medium,0.9,18873,8.3,"Linear Regression, Neural Networks, Deep Learning",True,Hard,6,0.13,0.78
+24,19843,Rural,Hybrid,Visual,2,Beginner,62.3,Good,9,High,0.71,17955,7.5,"Algorithms, Data Structures, System Design",True,Hard,0,0.01,0.88
+21,44873,Rural,Hybrid,Hearing,5,Beginner,51.45,Average,8,High,0.8,14478,2.2,"Linear Regression, Neural Networks, Deep Learning",True,Medium,5,0.04,0.52
+33,37451,Urban,Online,Kinesthetic,33,Advanced,97.33,Good,3,Low,0.6,16914,2.8,"Linear Regression, Neural Networks, Deep Learning",True,Easy,7,0.05,0.1
+19,15949,Suburban,Online,Hearing,8,Intermediate,58.93,Good,4,High,0.71,15066,5.0,"Linear Regression, Neural Networks, Deep Learning",True,Medium,1,0.96,0.96
+30,83981,Urban,Online,Hearing,3,Advanced,52.66,Poor,7,Medium,0.81,5921,4.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,9,0.73,0.43
+34,20619,Urban,Online,Visual,26,Beginner,88.58,Average,9,High,0.73,5383,3.8,"Linear Regression, Neural Networks, Deep Learning",False,Medium,11,0.5,0.06
+20,55718,Urban,Online,Hearing,39,Advanced,89.3,Poor,6,High,0.95,2008,6.3,"Algorithms, Data Structures, System Design",False,Medium,1,0.7,0.41
+29,59412,Suburban,Hybrid,Hearing,23,Advanced,96.07,Poor,5,High,0.67,6911,3.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.77,0.88
+26,57129,Urban,Hybrid,Visual,33,Intermediate,80.05,Poor,9,High,0.73,15007,9.2,"Algorithms, Data Structures, System Design",False,Easy,0,0.6,0.81
+27,54294,Suburban,Offline,Visual,3,Advanced,87.9,Average,6,Medium,0.59,17331,7.5,"Linear Regression, Neural Networks, Deep Learning",True,Hard,6,0.09,0.73
+26,66322,Suburban,Offline,Visual,10,Advanced,60.51,Average,4,Medium,0.64,2379,4.9,"Linear Regression, Neural Networks, Deep Learning",True,Hard,3,0.5,0.71
+31,88817,Rural,Hybrid,Hearing,14,Intermediate,94.47,Good,2,High,0.89,8500,5.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,4,0.89,0.61
+19,16835,Rural,Hybrid,Hearing,21,Intermediate,81.2,Average,7,Low,0.69,18199,2.8,"Linear Regression, Neural Networks, Deep Learning",True,Easy,2,0.79,0.25
+27,40220,Rural,Offline,Visual,4,Intermediate,69.73,Good,4,Low,0.91,13978,4.0,"Linear Regression, Neural Networks, Deep Learning",True,Hard,4,0.66,0.11
+28,50071,Rural,Online,Kinesthetic,10,Beginner,73.08,Poor,3,Medium,0.99,19230,5.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,3,0.84,0.15
+28,92723,Rural,Hybrid,Visual,27,Intermediate,77.75,Average,7,High,0.7,13346,4.3,"Algorithms, Data Structures, System Design",True,Easy,8,0.86,0.43
+29,22845,Urban,Hybrid,Visual,27,Advanced,82.64,Good,8,Medium,0.84,16249,4.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,8,0.19,0.32
+30,19753,Suburban,Offline,Kinesthetic,34,Intermediate,87.36,Good,4,Low,0.74,15096,1.5,"Linear Regression, Neural Networks, Deep Learning",False,Easy,13,0.77,0.59
+21,49801,Urban,Offline,Visual,11,Advanced,99.36,Average,7,High,0.77,13036,3.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,14,0.98,0.42
+21,68416,Suburban,Online,Hearing,19,Intermediate,73.87,Average,8,Low,0.61,17242,3.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,2,0.65,0.72
+29,56321,Rural,Online,Visual,3,Advanced,76.57,Average,9,Medium,0.78,10155,9.4,"Algorithms, Data Structures, System Design",False,Easy,5,0.99,0.9
+22,54321,Suburban,Online,Visual,31,Beginner,81.84,Good,3,High,0.64,7086,5.4,"Algorithms, Data Structures, System Design",True,Easy,1,0.66,0.8
+22,96701,Rural,Hybrid,Visual,6,Intermediate,99.44,Good,6,Medium,0.74,17212,6.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.49,0.73
+20,38155,Urban,Online,Hearing,21,Beginner,82.66,Poor,9,Medium,0.87,3367,1.5,"Linear Regression, Neural Networks, Deep Learning",True,Hard,8,0.06,0.31
+18,55298,Rural,Hybrid,Hearing,27,Beginner,87.33,Poor,2,Low,0.74,13172,4.9,"Algorithms, Data Structures, System Design",False,Hard,10,0.34,0.19
+28,58203,Rural,Online,Hearing,9,Intermediate,97.68,Poor,6,High,0.87,14543,1.0,"Linear Regression, Neural Networks, Deep Learning",True,Hard,11,0.46,0.6
+21,28730,Urban,Offline,Kinesthetic,13,Intermediate,92.16,Average,8,Low,0.59,5010,4.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,13,0.1,0.9
+27,56329,Urban,Online,Kinesthetic,1,Beginner,52.12,Good,1,Low,0.65,3705,2.2,"Linear Regression, Neural Networks, Deep Learning",True,Medium,6,0.87,0.31
+23,87410,Urban,Online,Hearing,5,Advanced,89.55,Poor,8,Medium,0.55,12409,3.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,8,0.24,0.89
+32,56751,Rural,Offline,Hearing,24,Intermediate,75.17,Poor,7,High,0.55,2376,2.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,2,0.73,0.1
+21,10150,Suburban,Hybrid,Hearing,14,Beginner,59.54,Average,8,High,0.81,12187,5.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,14,0.82,0.9
+25,61106,Rural,Hybrid,Visual,18,Intermediate,61.33,Average,2,Low,0.86,17413,8.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,13,0.82,0.85
+31,75169,Urban,Online,Kinesthetic,37,Intermediate,95.39,Average,6,Low,0.99,16916,4.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,7,0.87,0.22
+25,94218,Rural,Hybrid,Visual,33,Advanced,88.09,Good,1,High,0.51,12791,6.9,"Algorithms, Data Structures, System Design",True,Hard,10,0.17,0.13
+24,45564,Suburban,Hybrid,Kinesthetic,24,Advanced,88.53,Average,4,Low,0.61,5972,5.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,12,0.55,0.29
+31,59914,Suburban,Offline,Hearing,5,Intermediate,59.25,Poor,3,Medium,0.76,1045,9.0,"Algorithms, Data Structures, System Design",False,Hard,9,0.42,0.97
+19,24839,Urban,Hybrid,Hearing,29,Advanced,66.58,Good,8,Low,0.73,2437,2.7,"Linear Regression, Neural Networks, Deep Learning",True,Medium,2,0.44,0.19
+33,16130,Rural,Offline,Kinesthetic,33,Intermediate,97.08,Good,1,Low,0.69,13250,1.8,"Linear Regression, Neural Networks, Deep Learning",True,Medium,4,0.83,0.0
+26,14853,Urban,Hybrid,Visual,33,Advanced,71.34,Average,8,Low,0.54,13959,4.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,10,0.74,0.72
+34,59076,Suburban,Hybrid,Hearing,17,Intermediate,89.48,Average,5,Low,0.77,6471,7.9,"Algorithms, Data Structures, System Design",False,Hard,13,0.84,0.25
+26,52397,Suburban,Hybrid,Kinesthetic,34,Intermediate,85.17,Poor,7,Medium,0.93,6976,1.2,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.03,0.71
+21,39378,Suburban,Online,Visual,28,Intermediate,74.5,Average,4,Low,0.55,16031,3.4,"Linear Regression, Neural Networks, Deep Learning",True,Hard,5,0.08,0.85
+19,49499,Urban,Online,Kinesthetic,22,Advanced,61.23,Good,3,Low,0.61,3501,1.6,"Algorithms, Data Structures, System Design",True,Medium,14,0.69,0.9
+24,70740,Suburban,Online,Kinesthetic,13,Beginner,73.38,Good,9,Low,0.77,14501,5.3,"Algorithms, Data Structures, System Design",False,Easy,0,0.45,0.8
+19,39163,Suburban,Hybrid,Hearing,7,Advanced,53.74,Average,6,Low,0.85,3338,1.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.25,0.23
+34,37547,Rural,Hybrid,Kinesthetic,27,Beginner,72.15,Average,7,Medium,0.95,5462,6.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,7,0.59,0.5
+33,76086,Urban,Online,Hearing,21,Beginner,54.28,Average,1,High,0.65,6464,7.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,5,0.13,0.41
+22,82712,Urban,Online,Visual,11,Beginner,65.47,Average,2,High,0.95,9835,2.5,"Algorithms, Data Structures, System Design",True,Easy,3,0.32,0.8
+18,88272,Urban,Hybrid,Visual,25,Advanced,72.09,Good,6,High,0.73,2286,5.2,"Linear Regression, Neural Networks, Deep Learning",False,Medium,7,0.23,0.91
+20,42718,Urban,Offline,Hearing,24,Advanced,79.26,Average,4,Low,0.6,3895,4.1,"Algorithms, Data Structures, System Design",True,Hard,9,0.59,0.76
+22,13303,Urban,Offline,Visual,22,Advanced,83.83,Good,4,Medium,0.96,6481,9.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,5,0.89,0.26
+27,82436,Suburban,Hybrid,Hearing,29,Beginner,66.41,Average,9,Low,0.75,8740,8.2,"Linear Regression, Neural Networks, Deep Learning",False,Easy,4,0.52,0.47
+33,40288,Rural,Online,Hearing,15,Advanced,89.13,Average,4,Medium,0.7,1009,1.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,5,0.69,0.69
+32,57398,Suburban,Hybrid,Visual,31,Advanced,70.44,Poor,6,Low,0.63,17023,2.9,"Algorithms, Data Structures, System Design",False,Easy,13,0.16,0.74
+31,81128,Rural,Offline,Visual,32,Beginner,67.66,Average,7,Medium,0.68,11078,7.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,6,0.89,0.88
+20,44473,Urban,Hybrid,Visual,20,Intermediate,93.48,Good,4,High,0.72,9327,8.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,11,0.66,0.69
+22,50104,Rural,Offline,Hearing,25,Beginner,77.47,Good,5,High,0.85,18572,4.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,14,0.56,0.32
+22,36093,Rural,Offline,Visual,34,Advanced,61.44,Good,1,Medium,0.64,2381,5.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.48,0.98
+28,96987,Rural,Online,Hearing,22,Advanced,77.32,Average,7,High,0.89,6878,6.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,4,0.7,0.38
+29,41085,Urban,Offline,Visual,7,Intermediate,97.36,Good,5,Medium,0.87,7933,6.8,"Algorithms, Data Structures, System Design",False,Medium,4,0.03,0.09
+31,14845,Urban,Hybrid,Kinesthetic,33,Intermediate,85.13,Poor,1,High,0.65,12535,1.6,"Linear Regression, Neural Networks, Deep Learning",True,Easy,0,0.51,0.1
+27,48318,Rural,Hybrid,Hearing,17,Advanced,66.69,Poor,5,High,0.52,13401,5.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,12,0.54,0.09
+30,95599,Rural,Online,Hearing,23,Beginner,72.84,Poor,7,Medium,0.95,4800,6.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,10,0.33,0.45
+31,87188,Suburban,Hybrid,Visual,39,Advanced,52.93,Good,1,Medium,0.96,6104,9.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,10,0.92,0.42
+30,55135,Suburban,Online,Kinesthetic,7,Intermediate,78.64,Average,6,High,0.79,6729,6.5,"Linear Regression, Neural Networks, Deep Learning",False,Easy,3,0.4,0.43
+29,30927,Rural,Offline,Kinesthetic,6,Advanced,70.04,Poor,1,High,0.87,17361,7.6,"Algorithms, Data Structures, System Design",True,Hard,1,0.35,0.93
+26,29763,Suburban,Offline,Kinesthetic,18,Beginner,77.8,Average,9,Low,0.85,4897,5.5,"Linear Regression, Neural Networks, Deep Learning",True,Medium,10,0.1,0.45
+34,85595,Urban,Offline,Kinesthetic,17,Intermediate,76.86,Good,4,Low,0.51,4592,5.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,2,0.61,0.37
+30,37857,Rural,Hybrid,Kinesthetic,36,Intermediate,88.77,Average,2,High,0.54,1279,9.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,7,0.73,0.6
+26,83251,Suburban,Online,Hearing,12,Advanced,96.32,Average,7,High,0.98,17871,4.4,"Linear Regression, Neural Networks, Deep Learning",True,Medium,6,0.36,0.14
+22,17887,Suburban,Hybrid,Kinesthetic,8,Advanced,89.1,Average,1,Medium,0.64,17380,6.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,10,0.1,0.01
+24,50473,Urban,Offline,Hearing,17,Intermediate,89.84,Poor,9,Medium,0.72,2632,6.2,"Algorithms, Data Structures, System Design",True,Easy,14,0.44,0.56
+33,86485,Urban,Hybrid,Hearing,18,Intermediate,57.49,Poor,2,Low,0.8,13135,3.7,"Algorithms, Data Structures, System Design",True,Medium,1,0.56,0.91
+20,72388,Rural,Online,Hearing,2,Intermediate,66.91,Good,6,High,0.81,1045,1.8,"Linear Regression, Neural Networks, Deep Learning",True,Medium,0,0.83,0.24
+28,44095,Suburban,Online,Kinesthetic,8,Advanced,62.95,Good,3,High,0.78,17503,1.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,3,0.48,0.4
+30,77732,Rural,Hybrid,Visual,36,Intermediate,81.94,Average,1,Low,0.56,12193,2.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,14,0.71,0.93
+23,90207,Suburban,Hybrid,Kinesthetic,33,Intermediate,68.41,Average,3,Medium,0.74,16149,3.8,"Linear Regression, Neural Networks, Deep Learning",True,Medium,6,0.34,0.11
+34,35281,Urban,Offline,Kinesthetic,1,Intermediate,55.12,Poor,4,Low,0.65,14562,8.2,"Linear Regression, Neural Networks, Deep Learning",False,Hard,10,0.2,0.63
+29,29244,Urban,Offline,Kinesthetic,12,Beginner,94.15,Poor,7,Medium,0.59,11232,4.1,"Linear Regression, Neural Networks, Deep Learning",True,Hard,14,0.26,0.9
+33,22550,Suburban,Online,Hearing,6,Beginner,75.94,Average,6,Medium,0.89,17066,5.3,"Algorithms, Data Structures, System Design",False,Easy,6,0.96,0.85
+19,99439,Suburban,Online,Kinesthetic,9,Beginner,50.5,Good,3,High,0.7,5609,2.2,"Linear Regression, Neural Networks, Deep Learning",True,Easy,1,0.45,0.11
+25,19008,Rural,Offline,Hearing,2,Advanced,64.25,Average,8,Low,0.99,19112,1.3,"Algorithms, Data Structures, System Design",False,Medium,0,0.38,0.65
+22,43867,Rural,Online,Hearing,36,Intermediate,53.66,Good,7,High,0.53,7081,4.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.78,0.36
+18,22258,Suburban,Online,Kinesthetic,17,Beginner,57.86,Average,2,Medium,0.75,16428,2.7,"Linear Regression, Neural Networks, Deep Learning",False,Medium,9,0.37,0.81
+29,36549,Rural,Offline,Visual,37,Advanced,62.24,Good,4,High,0.58,16752,4.1,"Algorithms, Data Structures, System Design",True,Hard,5,0.05,0.94
+20,97859,Urban,Hybrid,Hearing,22,Advanced,95.18,Good,4,High,0.81,9427,1.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,14,0.01,0.23
+29,27619,Suburban,Online,Visual,4,Beginner,71.08,Poor,8,Medium,0.8,3753,3.9,"Linear Regression, Neural Networks, Deep Learning",False,Hard,14,0.14,0.03
+34,58407,Urban,Offline,Kinesthetic,30,Advanced,56.11,Good,3,High,0.65,6245,4.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,0,0.17,0.35
+18,48847,Rural,Online,Hearing,30,Advanced,60.22,Poor,7,High,0.87,8147,5.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,7,0.08,0.94
+18,52670,Suburban,Offline,Visual,16,Advanced,74.53,Average,4,High,0.96,19340,2.3,"Algorithms, Data Structures, System Design",False,Medium,0,0.38,0.59
+32,73622,Urban,Hybrid,Hearing,4,Beginner,72.66,Good,9,Low,0.68,18345,8.5,"Linear Regression, Neural Networks, Deep Learning",True,Hard,11,0.34,0.99
+34,28095,Rural,Offline,Kinesthetic,20,Intermediate,68.44,Poor,9,Low,0.92,18351,9.4,"Algorithms, Data Structures, System Design",True,Medium,7,0.97,0.85
+27,81576,Rural,Online,Hearing,10,Advanced,50.75,Poor,3,Medium,0.92,17913,1.3,"Algorithms, Data Structures, System Design",True,Easy,11,0.15,0.88
+19,40840,Urban,Online,Kinesthetic,13,Advanced,58.99,Average,8,Low,0.8,12728,9.9,"Linear Regression, Neural Networks, Deep Learning",True,Hard,0,0.1,0.91
+25,71428,Urban,Hybrid,Kinesthetic,14,Advanced,73.56,Average,7,Medium,0.96,12519,6.7,"Algorithms, Data Structures, System Design",True,Easy,9,0.56,0.8
+28,19286,Urban,Offline,Visual,1,Beginner,96.99,Average,7,Medium,0.55,7362,7.7,"Linear Regression, Neural Networks, Deep Learning",True,Easy,10,0.57,0.07
+22,60261,Urban,Offline,Visual,15,Beginner,96.47,Average,8,Low,0.93,4082,8.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,5,0.2,0.26
+23,84083,Urban,Offline,Hearing,34,Beginner,67.31,Poor,8,Medium,0.64,12826,1.8,"Algorithms, Data Structures, System Design",True,Medium,11,0.04,0.73
+27,23274,Urban,Hybrid,Hearing,21,Advanced,56.92,Poor,8,Medium,0.76,1591,9.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,1,0.75,0.91
+26,80981,Urban,Online,Kinesthetic,26,Advanced,64.46,Average,2,High,0.53,13768,4.8,"Algorithms, Data Structures, System Design",True,Hard,10,0.2,0.99
+21,65030,Suburban,Online,Hearing,21,Beginner,56.86,Good,3,Low,0.81,12449,6.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,7,0.2,0.69
+33,30238,Rural,Online,Hearing,18,Advanced,78.26,Good,7,Medium,0.79,19993,3.5,"Algorithms, Data Structures, System Design",True,Hard,3,0.93,0.89
+34,76043,Suburban,Offline,Visual,7,Intermediate,59.11,Poor,3,Medium,0.5,4849,5.9,"Algorithms, Data Structures, System Design",False,Medium,1,0.51,0.82
+24,92438,Rural,Hybrid,Kinesthetic,25,Advanced,81.03,Average,1,Low,0.78,11431,3.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,6,0.04,0.83
+24,93547,Suburban,Offline,Hearing,38,Beginner,57.78,Good,6,Medium,0.74,13642,7.7,"Linear Regression, Neural Networks, Deep Learning",True,Medium,12,0.78,0.18
+33,40917,Urban,Hybrid,Kinesthetic,16,Beginner,76.28,Good,5,Medium,0.56,4501,1.4,"Linear Regression, Neural Networks, Deep Learning",False,Hard,7,0.35,1.0
+32,98133,Urban,Offline,Kinesthetic,24,Beginner,56.42,Average,6,Low,0.68,14943,9.8,"Linear Regression, Neural Networks, Deep Learning",False,Hard,13,0.78,0.58
+29,63013,Urban,Offline,Hearing,2,Advanced,62.77,Poor,9,Medium,0.71,6007,4.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,3,0.01,0.99
+31,95923,Rural,Online,Kinesthetic,22,Intermediate,60.33,Good,2,Medium,0.63,15997,3.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,3,0.43,0.47
+30,90226,Suburban,Online,Visual,6,Advanced,93.53,Average,7,Low,0.67,11728,3.0,"Linear Regression, Neural Networks, Deep Learning",True,Medium,7,0.32,0.01
+24,11052,Urban,Offline,Visual,17,Advanced,50.14,Poor,5,Medium,0.6,6453,4.0,"Linear Regression, Neural Networks, Deep Learning",False,Hard,6,0.51,0.57
+30,50353,Suburban,Online,Kinesthetic,10,Intermediate,74.72,Good,8,Medium,0.98,3796,7.4,"Algorithms, Data Structures, System Design",True,Easy,9,0.79,0.77
+23,87137,Rural,Offline,Visual,1,Advanced,58.65,Average,9,Medium,0.71,12056,2.9,"Algorithms, Data Structures, System Design",False,Hard,3,0.67,0.47
+25,47517,Urban,Online,Hearing,4,Intermediate,53.39,Poor,3,Low,0.71,2185,3.9,"Algorithms, Data Structures, System Design",False,Medium,6,0.32,0.58
+24,32801,Urban,Offline,Kinesthetic,5,Beginner,85.15,Poor,3,Low,0.93,16824,4.1,"Linear Regression, Neural Networks, Deep Learning",False,Hard,3,0.92,0.34
+21,42101,Urban,Online,Hearing,10,Intermediate,71.17,Average,3,Low,0.85,2311,7.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,4,0.5,0.8
+30,71767,Rural,Online,Kinesthetic,32,Beginner,59.56,Poor,6,High,0.74,11699,3.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,10,0.36,0.85
+31,47933,Suburban,Online,Kinesthetic,27,Intermediate,93.61,Average,4,Medium,0.57,7785,7.0,"Algorithms, Data Structures, System Design",False,Hard,13,0.14,0.99
+25,51405,Rural,Online,Kinesthetic,12,Beginner,78.73,Good,2,Medium,1.0,19446,1.4,"Algorithms, Data Structures, System Design",True,Medium,5,0.87,0.61
+31,91883,Rural,Online,Visual,12,Beginner,72.31,Poor,7,High,0.73,6976,6.0,"Algorithms, Data Structures, System Design",True,Hard,10,0.2,0.25
+20,13661,Suburban,Hybrid,Hearing,21,Advanced,78.6,Average,7,Medium,0.88,5043,2.4,"Algorithms, Data Structures, System Design",False,Hard,7,0.58,0.11
+25,73417,Rural,Online,Kinesthetic,36,Advanced,54.14,Good,8,Medium,1.0,8216,6.5,"Linear Regression, Neural Networks, Deep Learning",False,Hard,5,0.24,0.39
+28,96796,Urban,Online,Hearing,20,Beginner,72.81,Average,4,Medium,0.51,10571,4.7,"Algorithms, Data Structures, System Design",True,Hard,8,0.58,0.49
+32,97703,Suburban,Hybrid,Visual,10,Intermediate,66.35,Good,6,Medium,0.98,10588,1.3,"Algorithms, Data Structures, System Design",True,Easy,4,0.45,0.36
+30,70159,Suburban,Offline,Visual,12,Beginner,52.3,Average,7,Low,0.78,4370,9.6,"Linear Regression, Neural Networks, Deep Learning",True,Easy,7,0.78,0.83
+24,44805,Rural,Offline,Visual,38,Intermediate,68.09,Poor,6,High,0.62,8996,3.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.16,0.78
+34,40786,Suburban,Hybrid,Visual,5,Advanced,75.2,Poor,7,High,0.99,11835,2.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,1,0.85,0.78
+26,72807,Rural,Offline,Hearing,8,Beginner,55.47,Good,4,High,0.89,12408,3.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,6,0.48,0.02
+32,18063,Suburban,Hybrid,Kinesthetic,6,Advanced,95.21,Good,9,Low,0.95,11707,6.5,"Algorithms, Data Structures, System Design",True,Medium,10,0.67,0.1
+27,47176,Suburban,Hybrid,Hearing,28,Intermediate,76.32,Poor,5,High,0.7,12254,8.5,"Algorithms, Data Structures, System Design",True,Hard,3,0.92,0.47
+25,71916,Urban,Online,Visual,25,Advanced,81.72,Poor,6,Medium,0.69,1021,2.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,5,0.77,0.82
+27,18408,Rural,Online,Kinesthetic,27,Intermediate,64.08,Good,9,High,0.74,4985,5.9,"Algorithms, Data Structures, System Design",True,Medium,11,0.75,0.53
+32,88933,Urban,Offline,Visual,2,Beginner,61.58,Good,4,Medium,0.8,13816,6.1,"Linear Regression, Neural Networks, Deep Learning",False,Easy,12,0.03,0.38
+18,87222,Rural,Online,Hearing,24,Beginner,77.92,Average,7,High,0.91,1644,7.7,"Linear Regression, Neural Networks, Deep Learning",True,Hard,2,0.23,0.57
+33,41380,Rural,Offline,Hearing,7,Advanced,81.53,Poor,5,Low,0.89,14382,6.5,"Linear Regression, Neural Networks, Deep Learning",False,Easy,1,0.76,0.87
+24,34294,Rural,Online,Visual,17,Beginner,92.26,Poor,1,High,0.83,10536,5.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,3,0.53,0.62
+26,65035,Rural,Hybrid,Hearing,38,Advanced,61.51,Average,7,Low,0.97,18042,6.1,"Algorithms, Data Structures, System Design",True,Hard,14,0.07,0.18
+27,90982,Rural,Online,Hearing,37,Intermediate,63.18,Good,6,High,0.94,12197,1.8,"Algorithms, Data Structures, System Design",True,Easy,11,0.4,0.16
+33,73748,Urban,Offline,Visual,26,Beginner,74.45,Good,7,High,0.64,8595,8.1,"Linear Regression, Neural Networks, Deep Learning",False,Hard,3,0.15,0.43
+27,21950,Suburban,Online,Visual,25,Advanced,51.95,Average,9,Medium,0.64,17337,6.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,5,0.68,0.98
+27,14654,Rural,Offline,Kinesthetic,1,Advanced,89.12,Good,4,High,0.69,11549,6.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,10,0.1,0.58
+23,25589,Suburban,Online,Visual,30,Beginner,90.95,Poor,8,Low,0.69,15238,1.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.92,0.01
+20,65850,Rural,Offline,Hearing,25,Intermediate,57.08,Good,9,High,0.88,8725,2.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,11,0.5,0.29
+19,16445,Suburban,Online,Kinesthetic,26,Beginner,85.28,Good,4,High,0.99,16671,3.3,"Algorithms, Data Structures, System Design",True,Hard,14,0.26,0.92
+21,98996,Urban,Hybrid,Hearing,27,Advanced,76.42,Average,1,Medium,0.56,5993,4.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,14,0.31,0.98
+19,15552,Suburban,Hybrid,Hearing,38,Intermediate,51.44,Average,1,Low,0.76,7693,3.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,0,0.43,0.82
+26,27212,Suburban,Hybrid,Hearing,2,Intermediate,52.83,Good,3,Medium,0.56,6657,4.7,"Algorithms, Data Structures, System Design",True,Hard,2,0.24,0.96
+34,19265,Suburban,Hybrid,Hearing,3,Intermediate,78.48,Average,6,Low,0.84,11071,8.1,"Algorithms, Data Structures, System Design",True,Easy,11,0.85,0.82
+23,48120,Suburban,Hybrid,Hearing,14,Beginner,74.14,Average,7,Medium,0.76,12235,3.9,"Algorithms, Data Structures, System Design",True,Hard,9,0.66,0.32
+30,16816,Suburban,Online,Kinesthetic,3,Beginner,96.16,Average,5,High,0.69,12223,6.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,10,0.41,0.93
+27,64357,Urban,Offline,Visual,4,Intermediate,91.21,Poor,2,High,0.77,16306,8.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,10,0.06,0.49
+19,53631,Urban,Hybrid,Hearing,8,Intermediate,85.1,Poor,2,High,0.53,8274,1.2,"Algorithms, Data Structures, System Design",False,Medium,9,0.79,0.87
+23,99824,Suburban,Hybrid,Kinesthetic,22,Intermediate,50.29,Good,5,High,0.56,5659,6.6,"Algorithms, Data Structures, System Design",False,Medium,2,0.81,0.56
+33,65752,Suburban,Hybrid,Hearing,23,Advanced,50.53,Average,2,Low,0.97,8353,2.5,"Algorithms, Data Structures, System Design",True,Easy,7,0.14,0.6
+18,72726,Suburban,Online,Kinesthetic,6,Intermediate,71.82,Average,5,Low,0.94,18245,1.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,0,0.87,0.53
+31,39454,Rural,Online,Hearing,36,Advanced,78.77,Average,2,Medium,0.85,4950,2.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,6,0.06,0.44
+34,35153,Rural,Hybrid,Hearing,4,Intermediate,53.04,Good,9,High,0.73,15617,8.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,12,0.51,0.82
+33,58749,Urban,Online,Hearing,19,Beginner,68.62,Poor,8,Medium,0.74,12214,3.0,"Algorithms, Data Structures, System Design",True,Easy,8,0.16,0.46
+30,25153,Rural,Offline,Kinesthetic,36,Intermediate,56.27,Good,6,Low,0.51,6600,8.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,6,0.33,0.26
+23,42520,Suburban,Online,Hearing,33,Beginner,52.41,Average,4,Low,0.69,17644,3.5,"Linear Regression, Neural Networks, Deep Learning",False,Medium,1,0.89,0.14
+25,25304,Rural,Online,Kinesthetic,18,Beginner,98.58,Good,5,Low,0.61,8147,6.1,"Linear Regression, Neural Networks, Deep Learning",True,Medium,3,0.46,0.25
+26,65512,Rural,Hybrid,Visual,36,Advanced,97.51,Good,6,Medium,0.99,11332,4.5,"Linear Regression, Neural Networks, Deep Learning",False,Hard,9,0.92,0.23
+30,41209,Suburban,Hybrid,Hearing,16,Intermediate,66.06,Poor,3,High,0.67,11469,8.9,"Algorithms, Data Structures, System Design",False,Medium,8,0.19,0.34
+19,84997,Urban,Offline,Hearing,30,Beginner,58.04,Good,7,Medium,0.78,4695,2.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,5,0.99,0.18
+29,91736,Rural,Hybrid,Visual,28,Intermediate,82.59,Average,4,Low,0.61,16861,1.9,"Linear Regression, Neural Networks, Deep Learning",True,Hard,0,0.35,0.85
+27,68121,Urban,Offline,Visual,25,Intermediate,62.6,Average,2,Low,0.9,2997,1.7,"Linear Regression, Neural Networks, Deep Learning",False,Hard,2,0.68,0.25
+31,35909,Urban,Online,Kinesthetic,31,Beginner,56.81,Good,3,High,0.69,14075,8.3,"Algorithms, Data Structures, System Design",True,Easy,0,0.15,0.33
+32,47617,Urban,Hybrid,Hearing,7,Beginner,95.45,Average,4,Low,0.84,12100,1.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,5,0.26,0.4
+34,60662,Rural,Offline,Visual,7,Intermediate,87.98,Good,1,Low,0.57,11449,4.5,"Linear Regression, Neural Networks, Deep Learning",False,Easy,13,0.27,0.07
+30,73128,Urban,Hybrid,Kinesthetic,16,Intermediate,78.61,Average,4,High,0.9,18729,1.9,"Algorithms, Data Structures, System Design",False,Easy,9,0.11,0.25
+22,72835,Rural,Hybrid,Hearing,2,Beginner,58.64,Good,4,Medium,0.59,1973,3.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,3,0.01,0.11
+29,32211,Urban,Offline,Kinesthetic,15,Intermediate,72.13,Average,9,High,0.56,8628,6.0,"Algorithms, Data Structures, System Design",False,Hard,2,0.63,0.71
+19,44655,Urban,Offline,Kinesthetic,16,Advanced,57.09,Average,6,High,0.91,1799,7.9,"Linear Regression, Neural Networks, Deep Learning",False,Easy,9,0.03,0.49
+22,69061,Rural,Online,Hearing,4,Advanced,54.18,Good,6,Low,0.85,3701,5.9,"Linear Regression, Neural Networks, Deep Learning",False,Hard,11,0.8,0.15
+26,75403,Rural,Hybrid,Visual,25,Advanced,82.4,Poor,3,Medium,0.96,18775,7.9,"Linear Regression, Neural Networks, Deep Learning",False,Easy,14,0.04,0.72
+26,63729,Urban,Online,Hearing,34,Intermediate,84.56,Average,2,Low,0.86,7753,9.7,"Algorithms, Data Structures, System Design",True,Hard,0,0.52,0.84
+24,78748,Urban,Offline,Visual,20,Beginner,92.67,Average,4,Medium,0.74,2587,5.2,"Linear Regression, Neural Networks, Deep Learning",False,Easy,6,0.63,0.57
+27,58429,Urban,Hybrid,Visual,2,Beginner,74.91,Poor,1,High,0.72,1265,4.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,5,0.67,0.43
+25,23764,Rural,Hybrid,Visual,13,Intermediate,56.37,Average,3,High,0.83,7357,2.3,"Linear Regression, Neural Networks, Deep Learning",True,Easy,2,0.16,0.09
+26,59172,Urban,Offline,Kinesthetic,19,Advanced,53.17,Average,6,Low,0.95,12455,3.4,"Linear Regression, Neural Networks, Deep Learning",False,Hard,3,0.6,0.92
+26,81445,Urban,Online,Visual,29,Intermediate,69.28,Good,5,High,0.67,16083,2.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,3,0.45,0.31
+22,47583,Urban,Offline,Hearing,22,Advanced,65.72,Poor,4,Low,0.52,14814,7.4,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.59,0.6
+34,30012,Rural,Hybrid,Visual,30,Intermediate,50.23,Good,2,High,0.69,1043,3.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,12,0.5,0.42
+26,60974,Urban,Offline,Kinesthetic,20,Advanced,84.93,Good,6,Medium,0.62,3774,1.3,"Linear Regression, Neural Networks, Deep Learning",False,Medium,10,0.96,0.23
+18,17427,Suburban,Offline,Visual,15,Beginner,83.78,Poor,4,Medium,0.54,11276,2.0,"Linear Regression, Neural Networks, Deep Learning",False,Medium,14,0.94,0.4
+33,43711,Urban,Offline,Kinesthetic,39,Advanced,85.68,Good,2,Low,0.64,1547,4.9,"Algorithms, Data Structures, System Design",True,Easy,13,0.54,0.11
+30,72075,Rural,Hybrid,Kinesthetic,17,Beginner,92.48,Poor,2,High,0.92,10033,1.6,"Algorithms, Data Structures, System Design",True,Easy,7,0.12,0.23
+22,92619,Rural,Hybrid,Visual,10,Advanced,62.43,Average,9,Low,0.66,9306,5.0,"Linear Regression, Neural Networks, Deep Learning",False,Easy,5,0.4,0.14
+22,98117,Urban,Offline,Hearing,11,Intermediate,86.99,Poor,1,Low,0.53,16772,3.5,"Algorithms, Data Structures, System Design",True,Hard,1,0.04,0.98
+29,71132,Suburban,Online,Kinesthetic,18,Intermediate,98.39,Good,3,High,0.81,10655,8.7,"Linear Regression, Neural Networks, Deep Learning",False,Medium,6,0.41,0.56
+18,15212,Rural,Online,Visual,6,Intermediate,59.66,Poor,3,High,0.68,17908,4.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,4,0.81,0.78
+28,66037,Suburban,Online,Visual,14,Advanced,71.36,Average,2,High,0.83,13116,4.8,"Algorithms, Data Structures, System Design",False,Hard,4,0.76,0.48
+32,71350,Rural,Online,Visual,18,Advanced,70.39,Good,1,High,0.68,12468,8.8,"Linear Regression, Neural Networks, Deep Learning",False,Medium,14,0.6,0.39
+29,85140,Suburban,Hybrid,Hearing,9,Beginner,68.96,Average,9,High,0.59,13128,3.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,8,0.71,0.5
+31,98769,Suburban,Online,Visual,5,Beginner,68.52,Good,2,Low,0.64,15536,5.8,"Algorithms, Data Structures, System Design",False,Medium,6,0.59,0.49
+32,60456,Urban,Hybrid,Visual,4,Beginner,99.5,Poor,4,Medium,0.87,17999,1.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,5,0.26,0.86
+18,33478,Rural,Online,Hearing,12,Intermediate,98.11,Average,3,Medium,0.71,9193,4.9,"Linear Regression, Neural Networks, Deep Learning",False,Medium,8,0.41,0.79
+24,67743,Urban,Offline,Hearing,22,Beginner,67.63,Good,2,High,0.88,12296,8.8,"Algorithms, Data Structures, System Design",False,Hard,13,0.61,0.39
+34,29575,Rural,Hybrid,Visual,23,Beginner,75.85,Average,5,Medium,0.76,18369,6.5,"Linear Regression, Neural Networks, Deep Learning",True,Medium,1,0.82,0.33
+18,26860,Rural,Hybrid,Kinesthetic,4,Intermediate,83.41,Average,1,Medium,0.97,6099,5.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,7,0.2,0.31
+32,24099,Suburban,Offline,Visual,25,Beginner,70.0,Average,4,Medium,0.57,16164,9.3,"Algorithms, Data Structures, System Design",False,Hard,0,0.23,0.85
+20,86450,Rural,Offline,Kinesthetic,6,Advanced,98.13,Average,3,High,0.62,17130,7.2,"Linear Regression, Neural Networks, Deep Learning",True,Hard,0,0.39,0.77
+32,73895,Urban,Offline,Hearing,15,Intermediate,59.36,Good,8,Medium,0.85,2897,8.0,"Algorithms, Data Structures, System Design",True,Hard,5,0.03,0.67
+28,88037,Urban,Offline,Visual,39,Advanced,97.7,Good,2,High,0.52,7407,5.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.78,0.17
+29,67301,Urban,Hybrid,Visual,11,Beginner,75.13,Average,6,Medium,0.71,14270,5.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,9,0.97,0.51
+26,46444,Urban,Hybrid,Hearing,24,Intermediate,89.47,Average,5,Medium,0.65,4693,6.1,"Linear Regression, Neural Networks, Deep Learning",False,Hard,0,0.06,0.33
+30,38920,Urban,Hybrid,Visual,10,Beginner,76.36,Average,4,Medium,0.72,17496,7.4,"Linear Regression, Neural Networks, Deep Learning",True,Hard,6,0.42,0.5
+33,85449,Urban,Hybrid,Kinesthetic,34,Intermediate,61.41,Good,6,Low,0.69,8262,1.3,"Algorithms, Data Structures, System Design",True,Medium,5,0.19,0.93
+34,27149,Rural,Hybrid,Kinesthetic,15,Advanced,51.27,Average,2,Medium,0.97,6058,6.9,"Linear Regression, Neural Networks, Deep Learning",False,Hard,14,0.16,0.34
+29,53483,Urban,Offline,Visual,17,Beginner,84.77,Good,1,High,0.97,9116,2.3,"Algorithms, Data Structures, System Design",True,Hard,5,0.64,0.3
+30,91830,Rural,Online,Kinesthetic,17,Intermediate,88.85,Poor,2,Low,0.93,16086,2.5,"Algorithms, Data Structures, System Design",False,Easy,12,0.95,0.94
+31,66909,Urban,Hybrid,Kinesthetic,16,Beginner,96.88,Poor,3,High,0.73,6360,2.3,"Linear Regression, Neural Networks, Deep Learning",False,Medium,14,0.58,0.23
+32,40029,Suburban,Hybrid,Hearing,28,Intermediate,84.09,Good,4,High,0.72,18278,3.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,4,0.16,0.04
+22,61194,Suburban,Offline,Hearing,30,Beginner,82.43,Poor,1,High,0.96,1251,5.3,"Linear Regression, Neural Networks, Deep Learning",True,Hard,12,0.56,0.94
+18,82063,Urban,Hybrid,Visual,25,Beginner,84.04,Good,6,High,0.94,6973,10.0,"Linear Regression, Neural Networks, Deep Learning",True,Medium,5,0.13,0.54
+26,19834,Rural,Offline,Hearing,30,Beginner,68.32,Average,4,Medium,0.98,14753,1.4,"Algorithms, Data Structures, System Design",False,Hard,13,0.98,0.32
+26,93577,Suburban,Hybrid,Hearing,27,Intermediate,55.52,Poor,2,Medium,0.59,10886,7.4,"Linear Regression, Neural Networks, Deep Learning",True,Easy,0,0.04,0.31
+27,48388,Urban,Online,Visual,28,Beginner,77.82,Good,1,Low,0.97,3581,1.2,"Algorithms, Data Structures, System Design",False,Medium,0,0.27,0.48
+26,15627,Rural,Online,Kinesthetic,2,Beginner,71.69,Average,5,Low,0.81,15489,4.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,10,0.26,0.94
+29,36189,Suburban,Online,Visual,15,Intermediate,68.46,Good,5,Medium,1.0,16482,3.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,4,0.38,0.5
+22,98815,Rural,Offline,Hearing,10,Intermediate,76.37,Good,7,Low,0.57,3854,6.0,"Linear Regression, Neural Networks, Deep Learning",True,Hard,4,0.22,0.54
+19,85920,Suburban,Offline,Hearing,35,Intermediate,95.34,Good,5,High,0.95,12905,1.1,"Algorithms, Data Structures, System Design",True,Medium,5,1.0,0.12
+34,19828,Urban,Offline,Hearing,34,Advanced,55.84,Poor,4,Low,0.56,12860,6.8,"Algorithms, Data Structures, System Design",False,Hard,10,0.29,0.03
+24,41118,Rural,Hybrid,Kinesthetic,19,Beginner,99.33,Good,7,Medium,0.6,16879,4.7,"Linear Regression, Neural Networks, Deep Learning",False,Easy,6,0.53,0.72
+25,82755,Rural,Online,Kinesthetic,33,Intermediate,62.56,Average,1,Low,0.78,19929,5.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,4,0.69,0.11
+26,48498,Suburban,Online,Visual,34,Beginner,85.8,Good,7,Medium,0.73,19149,1.1,"Algorithms, Data Structures, System Design",True,Hard,10,0.97,0.3
+18,14041,Urban,Hybrid,Kinesthetic,4,Advanced,54.67,Average,6,High,1.0,2437,4.3,"Algorithms, Data Structures, System Design",False,Easy,2,0.33,0.48
+20,17350,Rural,Online,Hearing,38,Intermediate,90.92,Good,9,High,0.8,18511,2.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,1,0.72,0.05
+20,52226,Urban,Online,Hearing,13,Beginner,52.02,Poor,6,Low,0.61,12663,2.1,"Linear Regression, Neural Networks, Deep Learning",False,Easy,10,0.55,0.04
+28,18603,Rural,Online,Kinesthetic,33,Intermediate,51.04,Average,6,Medium,0.94,4640,5.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,6,0.8,0.99
+20,89195,Urban,Hybrid,Hearing,25,Advanced,80.09,Average,6,Low,0.97,14238,4.1,"Algorithms, Data Structures, System Design",True,Easy,5,0.74,0.34
+25,72126,Urban,Hybrid,Visual,18,Beginner,70.5,Average,6,High,0.62,10316,9.1,"Algorithms, Data Structures, System Design",True,Medium,1,0.26,0.0
+22,60034,Urban,Hybrid,Visual,34,Intermediate,52.55,Good,8,High,0.98,14612,5.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,2,0.08,0.16
+18,14805,Rural,Online,Kinesthetic,28,Intermediate,52.5,Average,6,Medium,0.71,2677,1.6,"Algorithms, Data Structures, System Design",False,Easy,6,0.55,0.1
+24,45940,Rural,Hybrid,Visual,26,Beginner,73.95,Poor,7,Medium,0.96,4976,4.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,9,0.67,0.46
+20,26352,Rural,Online,Kinesthetic,23,Advanced,95.85,Good,2,Low,0.58,5707,8.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,9,0.63,0.4
+31,86399,Rural,Hybrid,Visual,27,Intermediate,57.86,Average,4,Low,0.56,10821,2.2,"Linear Regression, Neural Networks, Deep Learning",False,Medium,8,0.09,0.75
+24,52280,Rural,Offline,Hearing,23,Beginner,91.34,Poor,5,Low,0.85,6510,5.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,13,0.81,0.52
+20,14928,Rural,Online,Visual,13,Intermediate,63.22,Good,2,Medium,0.69,4581,6.2,"Algorithms, Data Structures, System Design",True,Medium,11,0.38,0.83
+30,64990,Rural,Offline,Kinesthetic,34,Advanced,92.01,Good,3,Low,0.75,5306,1.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,14,0.38,0.34
+30,66296,Urban,Hybrid,Visual,37,Intermediate,57.39,Poor,2,High,0.7,1837,2.0,"Algorithms, Data Structures, System Design",True,Hard,6,0.01,0.57
+20,74783,Urban,Online,Kinesthetic,28,Beginner,91.18,Good,4,High,0.76,4933,1.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,3,0.88,0.67
+31,35328,Rural,Hybrid,Hearing,26,Beginner,65.59,Poor,2,Low,0.99,12086,6.2,"Linear Regression, Neural Networks, Deep Learning",True,Easy,9,0.42,0.36
+20,59928,Suburban,Hybrid,Hearing,6,Advanced,58.6,Average,2,Low,0.81,8474,9.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,11,0.36,0.05
+19,21654,Suburban,Hybrid,Hearing,23,Advanced,85.18,Poor,6,Low,0.78,14408,1.7,"Linear Regression, Neural Networks, Deep Learning",False,Medium,8,0.55,0.19
+31,44390,Urban,Online,Visual,32,Beginner,68.19,Good,6,High,0.57,11772,6.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,3,0.49,0.05
+33,39967,Urban,Offline,Kinesthetic,36,Beginner,74.37,Poor,7,High,0.59,1430,3.1,"Linear Regression, Neural Networks, Deep Learning",True,Medium,7,0.71,0.68
+23,29014,Rural,Online,Kinesthetic,15,Advanced,64.7,Good,7,Medium,0.71,12435,3.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,9,0.95,0.83
+27,88345,Urban,Hybrid,Hearing,33,Beginner,80.77,Good,8,Low,0.64,18619,7.4,"Linear Regression, Neural Networks, Deep Learning",True,Medium,7,0.8,0.78
+26,84080,Suburban,Hybrid,Visual,12,Advanced,90.32,Average,1,Low,0.98,15567,2.6,"Linear Regression, Neural Networks, Deep Learning",True,Easy,5,0.11,0.09
+33,72704,Rural,Hybrid,Kinesthetic,36,Intermediate,73.85,Good,7,Medium,0.71,18550,5.9,"Linear Regression, Neural Networks, Deep Learning",True,Hard,9,0.22,0.4
+33,11250,Urban,Online,Hearing,32,Advanced,73.06,Average,6,High,0.74,9174,1.2,"Algorithms, Data Structures, System Design",False,Easy,9,0.43,0.41
+20,99332,Urban,Offline,Kinesthetic,38,Intermediate,89.98,Good,9,Low,0.64,17178,4.1,"Algorithms, Data Structures, System Design",True,Hard,8,0.65,0.66
+20,78681,Rural,Online,Kinesthetic,38,Beginner,79.75,Average,5,Low,0.61,18476,7.1,"Algorithms, Data Structures, System Design",False,Medium,13,0.4,0.28
+28,86851,Suburban,Hybrid,Hearing,16,Advanced,94.72,Good,6,Medium,0.56,2483,3.5,"Algorithms, Data Structures, System Design",True,Medium,3,0.0,0.22
+34,22497,Rural,Hybrid,Visual,13,Intermediate,83.92,Poor,2,High,0.78,19080,9.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,9,0.93,0.69
+26,88871,Urban,Offline,Visual,31,Beginner,82.37,Good,2,Low,0.69,10523,5.2,"Algorithms, Data Structures, System Design",True,Medium,13,0.58,0.4
+21,53642,Suburban,Offline,Hearing,20,Intermediate,86.9,Good,1,Low,0.63,5726,8.6,"Linear Regression, Neural Networks, Deep Learning",True,Medium,11,0.77,0.61
+20,89592,Suburban,Offline,Kinesthetic,6,Beginner,64.53,Good,7,Low,0.92,19846,2.0,"Linear Regression, Neural Networks, Deep Learning",False,Hard,13,0.13,0.61
+29,68045,Urban,Hybrid,Kinesthetic,4,Beginner,99.34,Average,1,High,0.89,12560,5.8,"Linear Regression, Neural Networks, Deep Learning",True,Easy,4,0.71,0.99
+23,98443,Urban,Offline,Hearing,18,Advanced,86.95,Average,9,Low,0.62,9461,4.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,4,0.9,0.69
+22,48684,Suburban,Online,Kinesthetic,3,Advanced,69.8,Good,4,Low,0.86,1571,2.3,"Algorithms, Data Structures, System Design",True,Easy,1,0.27,0.17
+33,86835,Urban,Hybrid,Visual,7,Beginner,98.99,Poor,4,Low,0.53,1439,2.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,6,0.67,0.49
+32,15406,Urban,Hybrid,Kinesthetic,35,Advanced,74.17,Good,8,Medium,0.92,2610,4.3,"Linear Regression, Neural Networks, Deep Learning",False,Hard,6,0.18,0.03
+21,60839,Rural,Online,Visual,6,Intermediate,58.19,Poor,6,High,0.64,6390,1.6,"Algorithms, Data Structures, System Design",True,Hard,13,0.8,0.93
+20,21758,Rural,Offline,Kinesthetic,6,Advanced,87.24,Poor,4,Low,0.79,15188,3.0,"Algorithms, Data Structures, System Design",True,Medium,9,0.79,0.07
+20,60170,Urban,Offline,Hearing,32,Beginner,99.61,Good,9,High,0.68,3518,9.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,12,0.1,0.09
+23,89769,Rural,Hybrid,Kinesthetic,36,Intermediate,88.43,Average,2,Medium,0.63,19974,9.8,"Linear Regression, Neural Networks, Deep Learning",True,Easy,8,0.84,0.07
+23,89940,Suburban,Offline,Visual,8,Advanced,56.45,Poor,9,Low,0.92,17369,3.3,"Linear Regression, Neural Networks, Deep Learning",True,Medium,9,0.18,0.13
+18,98660,Suburban,Hybrid,Hearing,22,Intermediate,63.3,Average,4,Low,0.51,1654,7.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,6,0.11,0.17
+21,92158,Urban,Online,Hearing,2,Intermediate,86.79,Good,9,Low,0.79,15984,3.0,"Linear Regression, Neural Networks, Deep Learning",True,Easy,14,0.94,0.93
+18,52370,Rural,Offline,Hearing,8,Intermediate,75.82,Good,4,Low,0.53,2508,8.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,2,0.88,0.13
+33,89587,Urban,Offline,Kinesthetic,25,Advanced,69.37,Poor,6,Low,0.61,12726,7.8,"Linear Regression, Neural Networks, Deep Learning",True,Medium,5,0.72,0.72
+31,35938,Rural,Hybrid,Visual,27,Advanced,69.27,Average,1,Medium,0.78,11208,9.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,3,0.34,0.81
+21,40440,Urban,Offline,Visual,10,Intermediate,84.26,Average,8,Low,0.65,6150,3.0,"Linear Regression, Neural Networks, Deep Learning",True,Medium,9,0.31,0.14
+30,41749,Rural,Hybrid,Kinesthetic,30,Beginner,79.35,Poor,6,High,0.78,11323,3.1,"Linear Regression, Neural Networks, Deep Learning",True,Hard,3,0.98,0.94
+33,14706,Suburban,Hybrid,Kinesthetic,21,Advanced,88.28,Average,1,High,0.68,16569,5.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,13,0.34,0.72
+31,55849,Rural,Online,Visual,35,Beginner,96.24,Average,4,Medium,0.74,10301,5.0,"Linear Regression, Neural Networks, Deep Learning",True,Medium,1,0.57,0.04
+33,74836,Rural,Hybrid,Hearing,6,Intermediate,72.95,Average,2,Medium,0.97,13515,5.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,0,0.55,0.39
+29,74860,Rural,Hybrid,Hearing,34,Intermediate,91.95,Good,9,High,0.61,1847,1.5,"Linear Regression, Neural Networks, Deep Learning",True,Hard,2,0.6,0.31
+30,45980,Suburban,Offline,Kinesthetic,4,Beginner,81.91,Average,4,Low,0.8,11259,3.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,3,0.9,0.25
+34,52185,Urban,Offline,Kinesthetic,19,Beginner,83.06,Poor,7,Low,0.78,14789,8.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,3,0.58,0.39
+23,94848,Urban,Online,Kinesthetic,16,Beginner,82.43,Average,6,Medium,0.86,1087,1.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,12,0.41,0.83
+31,46610,Suburban,Online,Hearing,23,Beginner,82.04,Poor,8,High,0.66,9533,3.9,"Algorithms, Data Structures, System Design",False,Easy,2,0.24,0.39
+34,22329,Suburban,Hybrid,Hearing,37,Advanced,54.06,Good,7,Low,0.62,15468,1.1,"Algorithms, Data Structures, System Design",True,Medium,1,0.72,0.48
+26,34304,Urban,Online,Hearing,37,Advanced,98.32,Average,6,High,0.59,3354,5.4,"Algorithms, Data Structures, System Design",True,Medium,4,0.78,0.23
+34,31921,Urban,Offline,Hearing,16,Advanced,67.88,Poor,8,Low,0.94,1508,8.8,"Algorithms, Data Structures, System Design",True,Hard,4,0.27,0.35
+27,81278,Rural,Hybrid,Visual,1,Advanced,87.74,Good,2,High,0.81,13991,5.3,"Algorithms, Data Structures, System Design",True,Easy,0,0.44,0.87
+19,98578,Urban,Offline,Visual,9,Intermediate,70.79,Poor,6,High,0.53,12771,2.9,"Algorithms, Data Structures, System Design",True,Hard,10,0.16,0.99
+34,65516,Rural,Hybrid,Visual,8,Intermediate,86.77,Good,3,Low,0.92,1505,5.0,"Linear Regression, Neural Networks, Deep Learning",True,Easy,11,0.13,0.65
+27,74963,Urban,Offline,Hearing,32,Intermediate,52.56,Poor,2,Low,0.9,8747,3.8,"Linear Regression, Neural Networks, Deep Learning",True,Medium,8,0.12,0.31
+22,67363,Urban,Online,Visual,21,Advanced,68.72,Average,3,Medium,0.53,11577,9.8,"Algorithms, Data Structures, System Design",True,Hard,0,0.84,0.09
+30,32215,Suburban,Offline,Kinesthetic,37,Intermediate,77.09,Poor,5,High,0.97,19063,3.1,"Algorithms, Data Structures, System Design",False,Medium,1,0.18,0.71
+24,98122,Urban,Online,Kinesthetic,1,Intermediate,63.45,Average,1,Low,0.93,9445,1.2,"Linear Regression, Neural Networks, Deep Learning",True,Medium,12,0.61,0.71
+33,70269,Rural,Hybrid,Hearing,33,Beginner,96.55,Poor,1,High,0.59,13547,3.4,"Linear Regression, Neural Networks, Deep Learning",True,Medium,2,0.47,0.14
+20,22332,Suburban,Online,Visual,5,Beginner,57.99,Good,2,Medium,0.55,19673,8.9,"Algorithms, Data Structures, System Design",False,Hard,7,0.15,0.51
+30,18735,Rural,Hybrid,Hearing,6,Advanced,83.93,Good,4,Low,0.59,3380,2.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,8,0.37,0.0
+31,86483,Suburban,Online,Hearing,13,Beginner,54.04,Good,7,Medium,0.96,14676,8.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,11,0.75,0.08
+19,69552,Rural,Hybrid,Kinesthetic,18,Beginner,96.5,Good,7,High,0.82,17045,5.3,"Linear Regression, Neural Networks, Deep Learning",True,Easy,9,0.95,0.78
+29,99902,Urban,Online,Hearing,15,Advanced,87.1,Poor,5,Low,0.72,15610,8.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,12,0.52,0.12
+31,29264,Suburban,Offline,Visual,13,Intermediate,79.49,Average,3,Low,0.55,6394,9.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,14,0.84,0.79
+22,14657,Suburban,Online,Visual,5,Beginner,79.79,Poor,4,High,0.59,5410,5.6,"Linear Regression, Neural Networks, Deep Learning",False,Easy,14,0.57,0.62
+24,28476,Rural,Offline,Hearing,30,Intermediate,84.06,Good,1,Low,0.81,16499,2.2,"Algorithms, Data Structures, System Design",False,Medium,7,0.8,0.71
+30,84556,Urban,Hybrid,Hearing,1,Intermediate,99.15,Average,7,High,1.0,6257,8.8,"Algorithms, Data Structures, System Design",False,Medium,3,0.76,0.31
+21,99780,Suburban,Online,Hearing,16,Advanced,52.49,Average,2,Low,0.52,7124,7.3,"Linear Regression, Neural Networks, Deep Learning",False,Easy,0,0.09,0.24
+32,17940,Suburban,Online,Hearing,14,Intermediate,97.03,Average,2,Medium,0.75,14601,6.0,"Algorithms, Data Structures, System Design",False,Medium,6,0.06,0.25
+26,38104,Urban,Online,Kinesthetic,11,Advanced,62.71,Average,3,High,0.64,6272,10.0,"Linear Regression, Neural Networks, Deep Learning",True,Medium,2,0.52,0.24
+24,45883,Suburban,Hybrid,Kinesthetic,7,Advanced,78.27,Poor,5,High,0.86,3247,6.0,"Linear Regression, Neural Networks, Deep Learning",False,Easy,0,0.45,0.97
+20,40522,Urban,Offline,Kinesthetic,10,Intermediate,60.94,Poor,6,High,0.77,2867,5.1,"Algorithms, Data Structures, System Design",True,Medium,10,0.79,0.95
+31,41121,Urban,Hybrid,Hearing,34,Beginner,90.11,Average,7,High,0.56,4505,5.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,6,0.84,0.6
+34,79540,Rural,Hybrid,Visual,18,Beginner,92.32,Poor,6,High,0.95,17981,4.0,"Linear Regression, Neural Networks, Deep Learning",False,Hard,9,0.61,0.06
+29,49053,Suburban,Online,Kinesthetic,9,Intermediate,83.97,Poor,6,Low,0.8,6526,6.5,"Linear Regression, Neural Networks, Deep Learning",False,Hard,7,0.1,0.94
+21,53793,Urban,Hybrid,Visual,12,Advanced,57.42,Average,4,Low,0.87,1162,6.2,"Algorithms, Data Structures, System Design",False,Easy,13,0.98,0.43
+34,27608,Urban,Online,Kinesthetic,17,Beginner,61.0,Good,1,Low,0.64,6914,3.6,"Linear Regression, Neural Networks, Deep Learning",False,Easy,1,0.91,0.5
+31,23512,Rural,Hybrid,Kinesthetic,32,Beginner,84.89,Good,4,High,0.68,13273,7.9,"Linear Regression, Neural Networks, Deep Learning",False,Easy,11,0.37,0.15
+22,84641,Rural,Hybrid,Hearing,8,Intermediate,98.5,Good,2,High,0.85,3045,1.9,"Linear Regression, Neural Networks, Deep Learning",False,Hard,11,0.72,0.99
+34,30906,Suburban,Online,Kinesthetic,9,Beginner,79.48,Average,4,High,0.78,9215,5.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,3,0.89,0.97
+32,80625,Urban,Offline,Visual,19,Intermediate,73.07,Average,8,High,0.84,17727,2.4,"Linear Regression, Neural Networks, Deep Learning",True,Easy,8,0.28,0.6
+32,28423,Suburban,Online,Hearing,15,Intermediate,64.8,Good,6,Medium,0.95,5454,9.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,1,0.48,0.36
+21,15250,Rural,Online,Visual,33,Beginner,66.77,Poor,8,High,0.87,17847,1.1,"Linear Regression, Neural Networks, Deep Learning",False,Easy,3,0.78,0.26
+28,78125,Rural,Hybrid,Hearing,23,Beginner,59.18,Average,6,High,0.81,5984,3.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,8,0.54,0.16
+24,85415,Urban,Online,Hearing,38,Beginner,76.96,Poor,3,High,0.82,8453,2.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,0,0.93,0.87
+26,80388,Urban,Online,Hearing,10,Intermediate,53.41,Poor,9,Medium,0.65,17919,5.9,"Algorithms, Data Structures, System Design",False,Hard,4,0.53,0.68
+20,18454,Urban,Hybrid,Hearing,31,Intermediate,59.52,Good,9,High,0.98,6021,1.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,9,0.98,0.62
+24,38203,Suburban,Hybrid,Hearing,11,Intermediate,58.24,Average,1,Medium,0.74,4590,3.4,"Algorithms, Data Structures, System Design",True,Hard,6,0.79,0.35
+33,26537,Urban,Online,Kinesthetic,11,Advanced,81.74,Average,1,High,0.88,8761,2.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,13,0.12,0.19
+24,51870,Suburban,Online,Hearing,17,Intermediate,52.15,Good,7,Low,0.57,4496,3.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,8,0.04,0.75
+28,53971,Rural,Hybrid,Visual,18,Intermediate,58.15,Good,7,Medium,0.99,2274,5.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,2,0.79,0.68
+19,47240,Rural,Offline,Hearing,21,Beginner,90.39,Poor,6,Low,0.52,19318,8.9,"Algorithms, Data Structures, System Design",False,Hard,9,0.69,0.81
+27,88047,Suburban,Online,Visual,11,Advanced,87.46,Poor,2,Low,1.0,17977,6.5,"Linear Regression, Neural Networks, Deep Learning",True,Easy,9,0.77,0.86
+19,32212,Rural,Online,Visual,15,Beginner,92.31,Good,2,High,0.95,10578,4.4,"Algorithms, Data Structures, System Design",True,Hard,0,0.75,0.8
+25,54810,Suburban,Hybrid,Visual,33,Advanced,67.19,Good,1,Medium,0.75,3371,6.7,"Linear Regression, Neural Networks, Deep Learning",True,Easy,5,0.71,0.31
+25,85999,Rural,Hybrid,Hearing,12,Beginner,90.74,Good,1,Medium,0.59,2810,1.4,"Algorithms, Data Structures, System Design",False,Easy,12,0.58,0.13
+26,86748,Rural,Offline,Hearing,2,Intermediate,92.02,Good,9,Medium,0.8,6415,6.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,11,0.23,0.13
+27,77839,Suburban,Offline,Hearing,11,Beginner,72.63,Good,6,Low,1.0,19447,5.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,4,0.05,0.87
+20,34568,Urban,Offline,Visual,16,Beginner,51.75,Good,1,High,0.74,3296,8.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,10,0.65,0.38
+32,49382,Rural,Hybrid,Visual,13,Beginner,92.03,Average,1,High,0.72,4395,1.0,"Algorithms, Data Structures, System Design",True,Medium,2,0.5,0.65
+21,33329,Urban,Hybrid,Kinesthetic,5,Intermediate,80.33,Average,8,High,0.9,15645,2.6,"Linear Regression, Neural Networks, Deep Learning",True,Easy,12,0.41,0.93
+31,65353,Urban,Hybrid,Kinesthetic,31,Intermediate,87.57,Good,3,High,0.69,7137,7.0,"Algorithms, Data Structures, System Design",False,Medium,5,0.05,0.34
+29,73388,Suburban,Offline,Visual,8,Beginner,77.12,Good,4,Medium,0.91,12336,9.9,"Algorithms, Data Structures, System Design",False,Medium,3,0.31,0.29
+34,82895,Suburban,Hybrid,Kinesthetic,25,Advanced,79.22,Average,9,High,0.65,10758,5.5,"Linear Regression, Neural Networks, Deep Learning",False,Easy,13,0.92,0.19
+33,48826,Rural,Offline,Kinesthetic,4,Advanced,72.44,Poor,7,High,0.86,9932,9.0,"Algorithms, Data Structures, System Design",False,Hard,3,0.53,0.39
+18,60944,Suburban,Offline,Hearing,14,Beginner,54.85,Poor,7,High,0.97,6269,2.8,"Linear Regression, Neural Networks, Deep Learning",True,Hard,1,0.31,0.09
+30,24874,Urban,Offline,Hearing,36,Intermediate,89.69,Average,9,Medium,0.87,12286,2.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,12,0.21,0.82
+22,73088,Rural,Offline,Kinesthetic,1,Beginner,70.01,Good,9,Medium,0.58,8363,8.9,"Linear Regression, Neural Networks, Deep Learning",True,Hard,12,0.62,0.83
+27,40118,Rural,Offline,Visual,5,Beginner,61.61,Poor,3,Medium,0.61,10107,7.1,"Algorithms, Data Structures, System Design",True,Hard,11,0.33,0.51
+34,50363,Suburban,Offline,Visual,4,Beginner,64.68,Poor,1,High,0.67,16476,4.5,"Linear Regression, Neural Networks, Deep Learning",False,Easy,12,0.1,0.72
+19,52026,Urban,Online,Hearing,25,Beginner,71.02,Poor,1,Low,0.91,7827,6.0,"Linear Regression, Neural Networks, Deep Learning",False,Easy,1,0.22,0.76
+23,37295,Urban,Offline,Kinesthetic,23,Intermediate,55.62,Good,4,Low,0.96,4889,1.5,"Linear Regression, Neural Networks, Deep Learning",False,Hard,11,0.59,0.88
+23,94625,Rural,Offline,Kinesthetic,38,Beginner,77.33,Good,1,Low,0.83,9604,6.1,"Algorithms, Data Structures, System Design",False,Easy,7,0.19,0.24
+24,85680,Suburban,Offline,Kinesthetic,3,Intermediate,93.78,Good,4,High,0.99,16473,1.3,"Linear Regression, Neural Networks, Deep Learning",True,Easy,11,0.97,0.62
+28,16642,Rural,Online,Visual,30,Advanced,66.97,Good,4,Low,0.69,12535,7.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,12,0.6,0.27
+25,35966,Suburban,Hybrid,Visual,15,Intermediate,89.92,Poor,5,Medium,0.56,13444,8.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,13,0.07,1.0
+33,95795,Suburban,Online,Hearing,39,Intermediate,72.21,Good,1,Low,0.59,12986,2.6,"Algorithms, Data Structures, System Design",True,Medium,6,0.91,0.26
+32,89878,Rural,Online,Kinesthetic,13,Beginner,62.17,Good,2,High,0.99,10470,6.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,4,0.72,0.1
+32,47178,Rural,Hybrid,Hearing,24,Beginner,61.63,Poor,1,High,1.0,4452,9.0,"Algorithms, Data Structures, System Design",True,Easy,11,0.72,0.98
+34,59826,Rural,Online,Kinesthetic,16,Advanced,96.74,Average,8,High,0.56,8782,2.1,"Algorithms, Data Structures, System Design",True,Hard,11,0.57,0.85
+24,24577,Suburban,Offline,Kinesthetic,4,Advanced,95.23,Average,2,High,0.51,15598,6.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,14,0.65,0.29
+19,90128,Suburban,Hybrid,Visual,25,Advanced,66.04,Average,7,High,0.78,18381,3.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,13,0.6,0.52
+26,68056,Suburban,Offline,Visual,27,Intermediate,57.04,Good,7,Low,0.78,16962,2.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,11,0.11,0.52
+26,94077,Suburban,Hybrid,Hearing,6,Advanced,51.12,Average,3,Low,0.89,4571,9.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,14,0.66,0.36
+22,45050,Rural,Online,Kinesthetic,38,Beginner,95.47,Average,7,Low,0.84,2870,3.6,"Algorithms, Data Structures, System Design",True,Medium,12,0.45,0.6
+32,69191,Urban,Offline,Hearing,22,Beginner,94.34,Poor,9,Medium,0.78,8989,2.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,10,0.4,0.27
+26,40616,Rural,Online,Hearing,29,Advanced,51.39,Good,9,Medium,0.95,1127,5.9,"Algorithms, Data Structures, System Design",False,Medium,11,0.2,0.96
+33,35161,Urban,Offline,Hearing,30,Intermediate,92.37,Poor,3,High,0.84,6745,2.5,"Algorithms, Data Structures, System Design",False,Easy,13,0.38,0.14
+29,95335,Urban,Online,Kinesthetic,1,Beginner,69.28,Good,7,Low,0.8,9632,6.7,"Algorithms, Data Structures, System Design",True,Hard,14,0.28,0.35
+29,53937,Urban,Hybrid,Visual,25,Advanced,77.13,Average,4,High,0.98,2904,1.6,"Algorithms, Data Structures, System Design",True,Easy,8,0.06,0.3
+19,90429,Urban,Offline,Visual,33,Advanced,54.9,Poor,7,High,0.93,1998,7.4,"Algorithms, Data Structures, System Design",True,Easy,6,0.8,0.45
+32,74851,Rural,Hybrid,Visual,2,Intermediate,65.12,Average,6,Low,0.89,13866,5.9,"Linear Regression, Neural Networks, Deep Learning",True,Hard,12,0.15,0.22
+28,67626,Rural,Hybrid,Visual,6,Beginner,51.06,Good,2,Medium,0.63,13137,5.0,"Linear Regression, Neural Networks, Deep Learning",False,Medium,7,0.76,0.42
+26,65189,Rural,Online,Kinesthetic,7,Intermediate,77.89,Good,9,High,0.92,14148,6.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,3,0.79,0.29
+23,17900,Rural,Hybrid,Hearing,4,Advanced,81.15,Average,3,High,0.98,15518,9.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.94,1.0
+23,68460,Urban,Offline,Visual,25,Intermediate,89.02,Good,1,Medium,0.82,15854,1.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,13,0.96,0.72
+19,63684,Urban,Online,Hearing,38,Advanced,76.51,Poor,4,Medium,0.56,5705,2.6,"Linear Regression, Neural Networks, Deep Learning",True,Hard,8,0.4,0.59
+24,17772,Suburban,Online,Hearing,29,Intermediate,73.06,Average,1,Low,0.8,6860,8.6,"Linear Regression, Neural Networks, Deep Learning",False,Medium,10,0.13,0.41
+18,57305,Rural,Online,Kinesthetic,26,Intermediate,86.83,Poor,5,Low,0.56,7227,1.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,14,0.61,0.45
+20,11758,Suburban,Offline,Hearing,33,Intermediate,57.88,Average,4,Medium,0.81,13268,3.5,"Algorithms, Data Structures, System Design",False,Hard,10,0.89,0.86
+23,65606,Urban,Hybrid,Visual,37,Intermediate,81.81,Poor,1,High,0.64,13702,2.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,7,0.17,0.19
+30,56173,Suburban,Offline,Hearing,29,Advanced,98.68,Average,3,Medium,0.61,3732,1.2,"Algorithms, Data Structures, System Design",True,Medium,9,0.11,0.59
+20,17006,Urban,Hybrid,Hearing,5,Beginner,64.96,Good,3,High,0.87,3786,10.0,"Linear Regression, Neural Networks, Deep Learning",False,Medium,6,0.28,0.4
+27,49618,Urban,Hybrid,Hearing,16,Beginner,92.64,Good,7,Low,0.6,10379,3.5,"Linear Regression, Neural Networks, Deep Learning",True,Medium,12,0.85,0.11
+20,40856,Suburban,Hybrid,Visual,16,Advanced,81.72,Poor,4,Medium,0.65,4437,1.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,3,0.27,0.68
+30,15222,Rural,Hybrid,Visual,22,Advanced,59.44,Poor,5,Medium,0.53,16892,3.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,11,0.28,0.34
+31,17505,Urban,Offline,Visual,25,Intermediate,53.26,Good,6,Low,0.6,19724,5.1,"Algorithms, Data Structures, System Design",False,Hard,12,0.19,0.63
+25,74942,Urban,Offline,Hearing,14,Beginner,62.37,Average,6,High,0.7,4465,1.7,"Linear Regression, Neural Networks, Deep Learning",True,Easy,3,0.07,0.34
+19,50065,Suburban,Online,Hearing,13,Intermediate,53.02,Average,2,High,0.69,9895,3.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,5,0.84,0.34
+28,95428,Rural,Hybrid,Kinesthetic,14,Advanced,55.08,Average,2,High,0.85,7635,1.0,"Linear Regression, Neural Networks, Deep Learning",True,Hard,9,0.75,0.27
+21,43061,Rural,Online,Hearing,26,Advanced,55.88,Average,8,Low,0.96,15238,6.5,"Algorithms, Data Structures, System Design",True,Medium,0,0.73,0.22
+26,81942,Suburban,Offline,Visual,31,Intermediate,97.41,Good,8,Low,0.6,18740,10.0,"Algorithms, Data Structures, System Design",True,Hard,8,0.66,0.93
+29,34215,Urban,Hybrid,Hearing,25,Intermediate,79.99,Poor,7,High,0.78,15933,5.4,"Algorithms, Data Structures, System Design",False,Easy,9,0.52,0.12
+24,82351,Urban,Hybrid,Kinesthetic,27,Advanced,61.86,Average,9,High,0.73,15259,9.2,"Algorithms, Data Structures, System Design",True,Medium,4,0.52,0.69
+24,49366,Rural,Hybrid,Hearing,35,Beginner,77.97,Average,6,Low,0.5,4441,5.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,7,0.34,0.27
+32,33731,Suburban,Hybrid,Hearing,33,Advanced,65.91,Average,3,Medium,0.67,9810,5.2,"Algorithms, Data Structures, System Design",False,Hard,11,0.2,0.83
+25,19338,Suburban,Offline,Hearing,36,Advanced,89.41,Average,3,High,0.76,13181,2.8,"Linear Regression, Neural Networks, Deep Learning",True,Easy,3,0.69,0.76
+29,34980,Rural,Online,Visual,35,Beginner,63.05,Poor,2,Low,0.86,15127,2.4,"Algorithms, Data Structures, System Design",False,Easy,10,0.2,0.6
+25,10597,Suburban,Offline,Kinesthetic,22,Intermediate,94.56,Good,5,High,0.71,11306,2.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,10,0.34,0.94
+26,42206,Rural,Online,Hearing,12,Advanced,50.76,Poor,6,Low,0.74,8656,1.5,"Linear Regression, Neural Networks, Deep Learning",False,Hard,6,0.06,0.84
+24,85373,Rural,Offline,Visual,20,Intermediate,72.21,Good,6,Medium,0.8,1409,4.0,"Algorithms, Data Structures, System Design",False,Medium,4,0.48,0.83
+18,77610,Urban,Offline,Visual,36,Advanced,82.0,Good,2,High,0.65,15169,8.0,"Linear Regression, Neural Networks, Deep Learning",True,Hard,14,0.71,0.67
+31,76791,Suburban,Online,Hearing,38,Intermediate,55.09,Good,8,High,0.75,8997,7.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,7,0.92,0.57
+24,28352,Urban,Offline,Hearing,29,Intermediate,92.93,Poor,8,Medium,0.62,19664,4.2,"Algorithms, Data Structures, System Design",True,Medium,11,0.91,0.13
+25,76214,Rural,Online,Hearing,10,Advanced,84.03,Average,1,Medium,0.74,11365,8.4,"Algorithms, Data Structures, System Design",False,Hard,12,0.11,0.19
+31,38381,Rural,Hybrid,Hearing,18,Beginner,97.8,Good,1,Medium,0.51,17392,9.2,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.66,0.86
+24,60134,Suburban,Offline,Hearing,2,Beginner,79.45,Average,8,High,0.91,12074,3.7,"Linear Regression, Neural Networks, Deep Learning",False,Medium,6,0.69,0.36
+27,54660,Rural,Online,Kinesthetic,34,Advanced,91.94,Good,6,High,0.82,18403,6.2,"Algorithms, Data Structures, System Design",False,Hard,7,0.64,0.94
+19,65882,Suburban,Online,Hearing,39,Intermediate,65.49,Poor,4,Medium,0.62,4158,5.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,4,0.45,0.63
+18,82482,Urban,Online,Kinesthetic,18,Intermediate,90.22,Good,4,High,0.91,12102,5.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,11,0.67,0.87
+18,57331,Suburban,Offline,Visual,28,Advanced,65.17,Average,9,Medium,0.75,4200,5.9,"Algorithms, Data Structures, System Design",True,Medium,0,0.94,0.67
+24,56023,Urban,Offline,Hearing,6,Advanced,89.19,Good,6,Low,0.99,12316,1.2,"Algorithms, Data Structures, System Design",True,Easy,7,0.05,0.11
+22,58935,Suburban,Offline,Hearing,7,Beginner,87.79,Poor,8,Low,0.98,8654,2.3,"Algorithms, Data Structures, System Design",False,Easy,8,0.84,0.32
+23,86008,Rural,Offline,Kinesthetic,31,Intermediate,90.3,Good,8,Medium,0.98,8903,5.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,4,0.44,0.62
+25,50850,Suburban,Online,Hearing,29,Advanced,84.68,Average,4,High,0.61,18314,7.3,"Linear Regression, Neural Networks, Deep Learning",True,Medium,8,0.5,0.42
+29,47624,Urban,Online,Kinesthetic,12,Advanced,59.32,Average,4,Low,0.52,14566,5.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,8,0.83,0.66
+29,14996,Rural,Online,Visual,6,Beginner,78.55,Poor,5,Medium,0.81,18553,6.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,1,0.14,0.91
+22,46498,Suburban,Offline,Visual,37,Beginner,90.17,Good,2,Low,0.71,4273,5.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,11,0.29,0.59
+33,90316,Suburban,Online,Kinesthetic,6,Beginner,68.81,Good,3,Low,0.95,18462,5.7,"Linear Regression, Neural Networks, Deep Learning",True,Easy,6,0.17,0.97
+34,72387,Suburban,Offline,Hearing,24,Intermediate,70.42,Good,6,Medium,0.55,4276,1.4,"Algorithms, Data Structures, System Design",True,Hard,14,0.58,0.86
+34,48281,Rural,Hybrid,Hearing,28,Beginner,55.1,Poor,5,Low,0.61,9973,5.6,"Linear Regression, Neural Networks, Deep Learning",False,Easy,10,0.59,0.96
+33,87781,Suburban,Offline,Kinesthetic,6,Intermediate,94.1,Average,5,Low,0.78,12837,6.2,"Linear Regression, Neural Networks, Deep Learning",False,Medium,4,0.5,0.78
+26,72457,Rural,Hybrid,Hearing,26,Advanced,82.5,Average,8,High,0.75,11449,8.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,4,0.1,0.55
+25,82087,Rural,Hybrid,Hearing,6,Intermediate,87.45,Good,8,Medium,0.71,14148,5.7,"Linear Regression, Neural Networks, Deep Learning",True,Easy,0,0.7,0.31
+21,78761,Rural,Online,Hearing,32,Intermediate,75.31,Average,2,Medium,0.96,9234,3.5,"Algorithms, Data Structures, System Design",True,Medium,6,0.41,0.43
+18,93199,Rural,Hybrid,Hearing,14,Intermediate,91.23,Good,9,High,0.56,8745,4.6,"Linear Regression, Neural Networks, Deep Learning",True,Easy,9,0.42,0.89
+31,56748,Urban,Online,Hearing,21,Beginner,72.59,Good,5,Low,0.5,16508,4.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,14,0.11,0.51
+31,43724,Urban,Hybrid,Kinesthetic,11,Beginner,94.33,Good,3,Low,0.58,16181,4.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,3,0.39,0.04
+19,86732,Urban,Online,Hearing,38,Advanced,92.89,Average,5,Medium,0.51,15138,5.2,"Linear Regression, Neural Networks, Deep Learning",False,Easy,5,0.72,0.27
+32,52710,Urban,Hybrid,Kinesthetic,35,Beginner,68.22,Poor,9,High,0.58,4028,8.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,2,0.8,0.01
+24,92248,Urban,Online,Visual,30,Intermediate,81.1,Good,1,Low,0.72,17405,4.5,"Algorithms, Data Structures, System Design",True,Easy,9,0.51,0.19
+34,20526,Suburban,Offline,Visual,15,Intermediate,75.67,Good,4,Low,0.56,3404,2.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,11,0.72,0.89
+21,70640,Urban,Online,Kinesthetic,32,Beginner,59.22,Good,5,High,0.98,10555,1.5,"Linear Regression, Neural Networks, Deep Learning",True,Easy,13,0.52,0.68
+32,51677,Rural,Hybrid,Kinesthetic,16,Intermediate,90.79,Poor,6,Medium,0.72,9696,6.5,"Algorithms, Data Structures, System Design",True,Easy,9,0.07,0.47
+21,66582,Suburban,Offline,Kinesthetic,16,Beginner,69.68,Good,4,Medium,0.56,12533,1.9,"Linear Regression, Neural Networks, Deep Learning",False,Medium,14,0.68,0.04
+23,76796,Urban,Offline,Hearing,33,Beginner,86.29,Average,2,High,0.86,4055,9.7,"Linear Regression, Neural Networks, Deep Learning",True,Easy,7,0.04,0.58
+19,71872,Suburban,Hybrid,Visual,31,Advanced,77.14,Good,4,Medium,0.53,8080,1.0,"Algorithms, Data Structures, System Design",True,Hard,0,0.91,0.61
+20,50757,Suburban,Online,Hearing,17,Intermediate,77.76,Good,3,Medium,0.84,6605,2.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,7,0.15,0.22
+19,45451,Rural,Offline,Visual,2,Advanced,79.51,Good,5,High,0.92,11507,4.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,2,0.35,0.82
+32,89466,Urban,Offline,Visual,9,Intermediate,72.8,Average,5,High,0.61,16757,7.2,"Linear Regression, Neural Networks, Deep Learning",False,Hard,9,0.2,0.85
+29,91856,Suburban,Offline,Hearing,36,Advanced,79.19,Good,1,High,0.57,5945,1.1,"Linear Regression, Neural Networks, Deep Learning",False,Hard,9,0.01,0.6
+27,28567,Rural,Hybrid,Kinesthetic,13,Intermediate,68.45,Poor,6,High,0.6,10883,4.2,"Algorithms, Data Structures, System Design",True,Hard,12,0.82,0.39
+32,53929,Urban,Online,Visual,5,Advanced,58.29,Average,1,Low,0.72,18881,8.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,7,0.83,0.4
+23,90261,Rural,Online,Visual,17,Advanced,73.75,Good,1,High,0.9,13260,1.9,"Algorithms, Data Structures, System Design",False,Hard,2,0.01,0.85
+28,22660,Urban,Online,Kinesthetic,27,Advanced,57.4,Average,5,High,0.8,5949,6.0,"Algorithms, Data Structures, System Design",False,Easy,8,0.31,0.42
+18,26993,Suburban,Offline,Hearing,39,Advanced,76.48,Average,7,High,0.9,15804,4.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,8,0.07,0.85
+23,75289,Urban,Offline,Visual,33,Advanced,88.34,Good,9,Low,0.91,12045,2.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,5,0.22,0.32
+28,34529,Rural,Offline,Kinesthetic,24,Advanced,74.64,Good,6,Low,0.72,18305,1.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,0,0.33,0.84
+31,97027,Rural,Online,Kinesthetic,2,Intermediate,76.61,Average,7,Medium,0.73,16231,6.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,12,0.7,0.33
+27,59280,Rural,Hybrid,Visual,3,Beginner,67.72,Poor,9,Low,0.88,18141,2.9,"Algorithms, Data Structures, System Design",True,Easy,14,0.91,0.41
+32,69051,Rural,Hybrid,Hearing,7,Beginner,85.58,Good,9,High,0.79,10801,3.6,"Linear Regression, Neural Networks, Deep Learning",True,Easy,8,0.8,0.6
+25,39302,Suburban,Hybrid,Visual,5,Advanced,92.74,Good,5,Low,0.86,13596,7.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,0,0.46,0.57
+26,71926,Rural,Online,Hearing,39,Beginner,96.94,Average,3,Medium,0.53,14572,3.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.16,0.3
+22,97613,Urban,Hybrid,Hearing,25,Advanced,89.96,Poor,4,Medium,0.52,17391,3.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,2,0.75,0.06
+20,55723,Rural,Offline,Visual,27,Intermediate,70.0,Poor,5,High,0.6,10236,6.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.76,0.36
+19,89663,Suburban,Hybrid,Hearing,17,Beginner,74.1,Poor,9,High,0.51,13983,4.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,13,0.39,0.67
+22,35398,Suburban,Online,Visual,2,Beginner,71.03,Average,1,High,0.67,14539,5.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,5,0.67,0.58
+34,38366,Rural,Offline,Hearing,7,Advanced,95.78,Good,2,High,0.93,3596,5.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,12,0.59,0.39
+20,26840,Urban,Offline,Hearing,38,Intermediate,81.09,Poor,2,Low,0.82,18676,7.5,"Linear Regression, Neural Networks, Deep Learning",True,Medium,11,0.5,0.24
+32,31653,Rural,Offline,Hearing,12,Beginner,93.59,Good,5,Medium,0.95,19788,2.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,13,0.11,0.19
+21,68877,Suburban,Offline,Visual,24,Advanced,90.2,Good,4,Medium,0.63,4560,7.0,"Linear Regression, Neural Networks, Deep Learning",False,Easy,12,0.62,1.0
+19,71504,Rural,Offline,Kinesthetic,10,Beginner,99.92,Average,5,Medium,0.88,11976,1.0,"Algorithms, Data Structures, System Design",True,Hard,4,0.37,0.52
+30,84659,Suburban,Offline,Visual,18,Beginner,58.69,Good,6,Low,0.53,5267,4.7,"Algorithms, Data Structures, System Design",False,Hard,12,0.28,0.19
+30,90112,Urban,Online,Kinesthetic,7,Intermediate,54.48,Poor,5,Medium,1.0,17478,4.6,"Linear Regression, Neural Networks, Deep Learning",True,Hard,5,0.54,0.89
+24,68587,Rural,Hybrid,Kinesthetic,6,Advanced,84.0,Poor,6,High,0.56,13696,2.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.47,0.51
+30,24951,Urban,Offline,Hearing,28,Intermediate,96.43,Average,6,Low,0.92,14583,5.9,"Algorithms, Data Structures, System Design",False,Easy,5,0.7,0.27
+19,92666,Suburban,Online,Kinesthetic,34,Intermediate,88.22,Good,8,Medium,0.8,12503,6.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,14,0.01,0.17
+18,85745,Rural,Offline,Kinesthetic,33,Beginner,74.57,Poor,6,Medium,0.79,5158,1.7,"Linear Regression, Neural Networks, Deep Learning",True,Medium,9,0.52,0.45
+27,57962,Rural,Offline,Visual,3,Beginner,84.98,Average,2,Medium,0.84,6892,7.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,8,0.29,0.33
+22,78993,Urban,Offline,Kinesthetic,38,Intermediate,64.84,Good,9,Low,0.72,17206,6.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,5,0.28,0.06
+29,74989,Urban,Offline,Visual,21,Intermediate,97.43,Poor,7,Low,0.94,3421,7.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,1,0.92,0.56
+23,56017,Rural,Offline,Visual,21,Intermediate,67.12,Average,3,Medium,0.87,7777,8.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,4,0.87,0.42
+33,89091,Suburban,Online,Visual,8,Beginner,92.86,Poor,8,Medium,0.51,9656,5.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.08,0.42
+25,98204,Rural,Offline,Visual,10,Advanced,66.41,Good,4,Medium,0.91,14095,3.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,1,0.42,0.65
+32,12786,Suburban,Hybrid,Visual,34,Advanced,98.05,Poor,3,High,0.81,15543,3.0,"Algorithms, Data Structures, System Design",True,Easy,0,0.4,0.74
+33,23810,Rural,Hybrid,Kinesthetic,35,Beginner,54.76,Average,7,High,0.5,9086,4.5,"Linear Regression, Neural Networks, Deep Learning",False,Easy,8,0.75,0.66
+18,68072,Urban,Offline,Visual,22,Beginner,94.11,Poor,4,Low,0.63,19382,7.8,"Algorithms, Data Structures, System Design",False,Medium,2,0.91,0.59
+31,37234,Rural,Offline,Hearing,11,Advanced,94.26,Average,7,Medium,0.67,2848,3.3,"Linear Regression, Neural Networks, Deep Learning",False,Medium,4,0.18,0.62
+31,50996,Suburban,Online,Visual,38,Beginner,71.23,Poor,9,Medium,0.58,9531,2.9,"Algorithms, Data Structures, System Design",False,Easy,0,0.65,0.69
+22,38150,Urban,Offline,Hearing,5,Intermediate,94.7,Good,1,Medium,0.87,6137,2.4,"Linear Regression, Neural Networks, Deep Learning",True,Medium,5,0.79,0.28
+19,18786,Suburban,Hybrid,Visual,1,Beginner,61.37,Average,5,Low,0.55,13162,6.1,"Algorithms, Data Structures, System Design",False,Medium,7,0.29,0.59
+21,91681,Suburban,Online,Visual,36,Advanced,96.34,Good,9,Medium,0.67,18519,4.8,"Linear Regression, Neural Networks, Deep Learning",False,Medium,14,0.25,0.82
+26,80075,Rural,Online,Kinesthetic,3,Intermediate,59.5,Good,7,Low,0.59,7700,3.6,"Algorithms, Data Structures, System Design",True,Medium,12,0.72,0.08
+34,88096,Rural,Online,Visual,27,Intermediate,67.92,Average,6,Medium,0.63,4849,4.5,"Linear Regression, Neural Networks, Deep Learning",True,Easy,11,0.24,0.36
+30,22447,Urban,Online,Hearing,8,Beginner,51.71,Good,3,High,0.96,2888,2.1,"Linear Regression, Neural Networks, Deep Learning",False,Easy,4,0.95,0.05
+18,36152,Suburban,Online,Hearing,5,Advanced,60.56,Average,4,Medium,0.95,19462,9.7,"Linear Regression, Neural Networks, Deep Learning",False,Easy,5,0.32,0.59
+22,88794,Urban,Offline,Hearing,25,Advanced,68.46,Good,3,Low,0.56,4146,2.8,"Algorithms, Data Structures, System Design",True,Medium,4,0.0,0.9
+26,62168,Suburban,Offline,Visual,8,Intermediate,76.74,Good,8,Medium,0.62,19984,9.4,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.99,0.65
+21,58051,Rural,Online,Hearing,8,Beginner,97.97,Poor,7,Medium,0.7,5220,2.6,"Linear Regression, Neural Networks, Deep Learning",True,Hard,14,0.42,0.37
+21,38170,Urban,Hybrid,Visual,31,Advanced,60.34,Poor,9,Low,0.76,18608,5.1,"Algorithms, Data Structures, System Design",True,Medium,14,0.11,0.11
+22,71619,Suburban,Hybrid,Kinesthetic,15,Beginner,71.24,Good,3,Medium,0.84,12100,5.2,"Algorithms, Data Structures, System Design",True,Medium,6,0.49,0.27
+22,77931,Rural,Offline,Hearing,31,Intermediate,78.52,Good,4,Low,0.8,17148,2.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,14,0.97,0.68
+32,79976,Urban,Offline,Visual,27,Advanced,98.18,Average,3,Low,0.86,18346,1.4,"Linear Regression, Neural Networks, Deep Learning",False,Easy,10,0.58,0.7
+25,59304,Urban,Online,Hearing,22,Advanced,88.57,Good,8,High,0.98,10451,1.7,"Algorithms, Data Structures, System Design",False,Medium,7,0.06,0.4
+20,77650,Suburban,Offline,Hearing,26,Advanced,75.25,Average,4,Low,0.8,15542,6.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,1,0.26,0.85
+29,47776,Urban,Hybrid,Hearing,7,Intermediate,75.1,Good,7,Low,0.78,8382,2.1,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.33,0.67
+30,56285,Urban,Hybrid,Visual,20,Intermediate,75.57,Average,6,Low,0.53,12550,9.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,7,0.67,0.86
+24,74808,Rural,Offline,Kinesthetic,12,Intermediate,71.37,Average,9,Low,0.67,18005,9.0,"Algorithms, Data Structures, System Design",True,Hard,2,0.77,0.01
+28,27565,Urban,Offline,Hearing,23,Advanced,64.23,Average,4,Medium,0.84,8857,4.2,"Algorithms, Data Structures, System Design",False,Hard,9,0.46,0.93
+33,94564,Urban,Hybrid,Visual,20,Beginner,95.69,Average,1,High,0.72,9896,6.8,"Algorithms, Data Structures, System Design",True,Hard,2,0.58,0.31
+30,27967,Urban,Hybrid,Kinesthetic,17,Beginner,82.05,Average,7,Low,0.55,17568,3.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,1,0.85,0.19
+33,50794,Urban,Online,Hearing,38,Beginner,51.18,Poor,6,High,0.97,4095,8.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,6,0.69,0.93
+23,97227,Urban,Offline,Kinesthetic,27,Advanced,78.91,Good,2,High,0.91,18568,8.2,"Linear Regression, Neural Networks, Deep Learning",False,Medium,8,0.95,0.39
+33,82981,Rural,Online,Kinesthetic,25,Advanced,64.95,Average,2,Low,0.95,9588,5.7,"Linear Regression, Neural Networks, Deep Learning",True,Medium,12,0.02,0.32
+22,66718,Rural,Hybrid,Kinesthetic,22,Beginner,51.83,Poor,1,Medium,0.63,8690,5.8,"Linear Regression, Neural Networks, Deep Learning",False,Hard,7,0.45,0.09
+28,21743,Rural,Offline,Hearing,32,Beginner,57.14,Poor,3,High,0.7,11075,9.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,2,0.14,0.67
+30,98883,Rural,Offline,Visual,19,Advanced,63.63,Good,2,Medium,0.92,17519,9.0,"Algorithms, Data Structures, System Design",True,Easy,10,0.3,0.29
+24,46993,Urban,Hybrid,Visual,32,Advanced,84.05,Poor,7,Low,0.59,1228,7.8,"Algorithms, Data Structures, System Design",True,Easy,2,0.87,0.17
+25,77001,Suburban,Hybrid,Kinesthetic,25,Beginner,86.93,Poor,6,High,0.62,2724,2.4,"Algorithms, Data Structures, System Design",True,Easy,6,0.07,0.12
+28,95077,Urban,Online,Hearing,29,Beginner,74.1,Average,8,Low,0.82,16323,9.3,"Algorithms, Data Structures, System Design",False,Hard,10,0.21,0.39
+27,55492,Suburban,Offline,Hearing,23,Advanced,82.76,Good,9,Low,0.64,6531,8.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.13,0.82
+25,87478,Urban,Online,Kinesthetic,18,Intermediate,62.0,Average,4,Medium,0.84,12149,6.5,"Linear Regression, Neural Networks, Deep Learning",True,Medium,10,0.91,0.66
+27,38141,Urban,Offline,Kinesthetic,5,Advanced,63.0,Good,5,Medium,0.63,6584,4.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,3,0.19,0.72
+21,22749,Urban,Hybrid,Visual,13,Beginner,81.05,Poor,8,Low,0.76,9746,3.2,"Linear Regression, Neural Networks, Deep Learning",True,Hard,2,0.18,0.01
+28,89939,Suburban,Online,Visual,14,Beginner,71.32,Poor,4,High,0.98,1762,7.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,14,0.15,0.43
+31,41152,Urban,Online,Kinesthetic,38,Advanced,88.7,Good,8,High,0.67,10759,1.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,9,0.58,0.73
+24,12128,Urban,Hybrid,Hearing,2,Advanced,99.76,Good,5,High,0.9,3281,4.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,12,0.4,0.84
+20,37977,Rural,Hybrid,Hearing,32,Beginner,96.04,Poor,6,Medium,0.57,10198,8.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,10,0.27,0.15
+20,42817,Rural,Hybrid,Visual,6,Beginner,52.45,Good,8,Medium,0.89,10591,2.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,11,0.44,0.72
+33,24666,Rural,Hybrid,Kinesthetic,19,Intermediate,78.2,Good,3,Medium,0.56,12269,2.4,"Algorithms, Data Structures, System Design",True,Hard,6,0.73,0.49
+18,17739,Urban,Hybrid,Kinesthetic,28,Beginner,83.35,Good,2,High,0.91,9619,8.4,"Algorithms, Data Structures, System Design",False,Easy,3,0.48,0.43
+30,96474,Suburban,Offline,Kinesthetic,16,Advanced,76.64,Poor,8,Medium,0.81,7512,6.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,3,0.0,0.95
+20,54700,Rural,Online,Hearing,31,Advanced,77.95,Poor,3,High,0.81,16053,5.6,"Linear Regression, Neural Networks, Deep Learning",False,Easy,13,0.44,0.08
+33,24348,Urban,Offline,Hearing,18,Beginner,73.33,Average,2,Low,0.96,10224,3.3,"Linear Regression, Neural Networks, Deep Learning",False,Hard,9,0.35,0.92
+22,35195,Rural,Offline,Kinesthetic,37,Advanced,61.5,Poor,5,Low,0.65,13579,6.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,2,0.57,0.98
+20,25746,Urban,Hybrid,Visual,35,Beginner,84.35,Good,8,Low,0.77,17073,9.2,"Linear Regression, Neural Networks, Deep Learning",False,Easy,1,0.73,0.14
+18,53970,Suburban,Offline,Visual,24,Advanced,86.25,Average,4,High,0.64,11660,9.0,"Linear Regression, Neural Networks, Deep Learning",True,Medium,5,0.0,0.86
+33,87131,Rural,Offline,Hearing,10,Advanced,70.61,Average,1,Low,0.64,7257,5.8,"Linear Regression, Neural Networks, Deep Learning",True,Hard,14,0.22,0.02
+32,36335,Rural,Offline,Kinesthetic,38,Beginner,97.12,Good,8,High,0.8,15718,9.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,6,0.07,0.51
+25,62960,Suburban,Hybrid,Hearing,29,Beginner,54.86,Average,7,High,0.81,14813,3.9,"Linear Regression, Neural Networks, Deep Learning",True,Hard,2,0.19,0.75
+21,55470,Urban,Offline,Hearing,30,Beginner,94.84,Good,6,High,0.66,13887,10.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,3,0.1,0.7
+32,80310,Urban,Offline,Visual,35,Beginner,86.0,Average,3,Medium,0.91,4979,3.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,11,0.64,0.51
+18,44408,Suburban,Hybrid,Kinesthetic,21,Advanced,75.45,Good,1,Medium,0.75,16048,1.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,4,0.49,0.24
+34,79676,Rural,Offline,Kinesthetic,8,Intermediate,71.9,Average,1,Low,0.53,15212,2.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,9,0.86,0.83
+29,87651,Rural,Offline,Kinesthetic,30,Intermediate,67.01,Average,6,High,0.76,18340,5.3,"Algorithms, Data Structures, System Design",True,Medium,5,0.48,0.03
+34,22973,Urban,Offline,Kinesthetic,7,Beginner,93.74,Poor,2,Low,0.87,2765,2.2,"Linear Regression, Neural Networks, Deep Learning",False,Easy,3,0.51,0.24
+26,44263,Urban,Hybrid,Kinesthetic,29,Advanced,79.13,Average,8,Medium,0.99,19970,4.6,"Linear Regression, Neural Networks, Deep Learning",False,Medium,14,0.5,0.3
+34,30824,Suburban,Hybrid,Hearing,5,Beginner,85.13,Good,6,High,0.78,18638,7.8,"Algorithms, Data Structures, System Design",True,Hard,2,0.66,0.52
+24,14834,Suburban,Hybrid,Visual,31,Beginner,83.91,Good,6,Low,0.57,6312,8.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,11,0.75,0.02
+30,62677,Suburban,Online,Hearing,36,Intermediate,58.67,Poor,1,Low,0.75,7798,4.7,"Linear Regression, Neural Networks, Deep Learning",True,Hard,1,0.38,0.79
+28,86339,Rural,Online,Kinesthetic,27,Advanced,72.23,Good,5,Low,0.59,14798,3.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,10,0.13,0.2
+32,65447,Rural,Online,Hearing,11,Advanced,91.72,Average,2,High,0.8,1844,3.2,"Algorithms, Data Structures, System Design",True,Hard,7,0.68,0.45
+22,64982,Rural,Hybrid,Visual,12,Intermediate,61.85,Good,7,Medium,0.88,13378,7.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,8,0.4,0.79
+29,58188,Suburban,Hybrid,Hearing,3,Advanced,52.57,Average,4,High,0.66,10454,1.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,8,0.07,0.42
+29,97268,Urban,Offline,Kinesthetic,10,Beginner,83.02,Good,7,Medium,0.84,4811,8.9,"Algorithms, Data Structures, System Design",True,Hard,11,0.52,0.58
+23,20362,Urban,Online,Kinesthetic,37,Beginner,64.23,Good,9,High,0.53,11424,6.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.04,0.77
+32,41541,Rural,Hybrid,Hearing,3,Beginner,85.76,Average,6,Medium,0.97,10799,4.1,"Linear Regression, Neural Networks, Deep Learning",False,Easy,12,0.36,0.3
+34,61278,Urban,Online,Visual,26,Advanced,84.13,Good,1,Low,0.68,12843,6.7,"Algorithms, Data Structures, System Design",True,Easy,7,0.23,0.22
+20,83335,Rural,Hybrid,Hearing,24,Beginner,57.52,Average,7,High,0.73,9987,8.7,"Algorithms, Data Structures, System Design",True,Easy,0,0.06,0.5
+21,42246,Suburban,Online,Kinesthetic,8,Advanced,79.86,Good,1,High,0.65,2000,6.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,3,0.24,0.27
+33,43860,Rural,Hybrid,Kinesthetic,20,Intermediate,80.19,Poor,3,Low,0.58,9847,8.9,"Algorithms, Data Structures, System Design",False,Hard,2,0.31,0.26
+28,25594,Suburban,Online,Hearing,4,Beginner,81.01,Poor,5,Low,0.84,16791,6.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,6,0.98,0.63
+25,94588,Rural,Online,Hearing,2,Advanced,98.62,Good,1,Low,0.82,7793,7.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,9,1.0,0.14
+20,40304,Rural,Offline,Hearing,30,Intermediate,74.52,Good,3,Low,0.89,18301,4.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,1,0.83,0.76
+33,58171,Urban,Online,Visual,36,Advanced,91.98,Average,4,High,0.76,14997,9.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,2,0.19,0.9
+24,59944,Suburban,Hybrid,Kinesthetic,39,Beginner,56.77,Poor,3,Low,0.53,12394,2.5,"Algorithms, Data Structures, System Design",False,Medium,7,0.77,0.72
+26,59490,Urban,Hybrid,Visual,9,Beginner,64.56,Average,2,High,0.58,18227,2.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,3,0.77,0.15
+34,93808,Rural,Online,Hearing,25,Beginner,58.93,Poor,5,Low,0.59,12479,6.9,"Algorithms, Data Structures, System Design",True,Hard,1,0.16,0.18
+19,84992,Urban,Offline,Hearing,39,Beginner,95.95,Average,8,High,0.99,17437,1.1,"Linear Regression, Neural Networks, Deep Learning",False,Medium,8,0.95,0.88
+28,11727,Urban,Hybrid,Visual,30,Intermediate,60.66,Average,8,Low,0.65,18948,10.0,"Linear Regression, Neural Networks, Deep Learning",True,Easy,5,0.56,0.13
+33,38961,Urban,Online,Hearing,13,Advanced,61.27,Average,3,Medium,0.59,9215,3.5,"Algorithms, Data Structures, System Design",False,Hard,8,0.72,0.8
+18,21990,Urban,Online,Visual,24,Intermediate,78.04,Average,2,Low,0.66,8817,5.0,"Linear Regression, Neural Networks, Deep Learning",False,Easy,2,0.01,0.14
+27,87704,Urban,Offline,Visual,6,Intermediate,51.95,Poor,9,High,0.9,14163,7.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,9,0.38,0.84
+24,63184,Urban,Offline,Kinesthetic,32,Advanced,61.82,Good,7,High,0.7,12448,1.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,7,0.89,0.44
+30,30487,Urban,Offline,Hearing,3,Advanced,77.33,Average,4,Medium,0.63,9868,3.7,"Algorithms, Data Structures, System Design",True,Medium,10,0.25,0.26
+34,99044,Urban,Offline,Visual,11,Beginner,92.95,Average,4,Low,0.65,18425,7.3,"Linear Regression, Neural Networks, Deep Learning",True,Hard,7,0.03,0.25
+22,81659,Urban,Hybrid,Visual,8,Beginner,85.22,Good,3,Medium,0.54,2833,3.1,"Algorithms, Data Structures, System Design",True,Medium,6,1.0,0.57
+30,49951,Suburban,Offline,Kinesthetic,6,Intermediate,89.69,Average,5,Medium,0.87,13232,5.4,"Algorithms, Data Structures, System Design",True,Hard,1,0.14,0.18
+22,92273,Rural,Hybrid,Kinesthetic,34,Beginner,70.13,Poor,9,High,0.57,15327,1.6,"Algorithms, Data Structures, System Design",True,Easy,14,0.48,0.49
+32,70360,Suburban,Online,Visual,3,Beginner,77.8,Average,8,Medium,0.66,13250,8.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,10,0.49,0.49
+25,14597,Rural,Online,Hearing,18,Beginner,85.38,Good,3,Low,0.94,6022,5.9,"Algorithms, Data Structures, System Design",False,Medium,3,0.02,0.66
+32,84326,Rural,Online,Hearing,38,Intermediate,84.31,Good,8,High,0.79,6259,3.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,10,0.04,0.83
+27,45037,Urban,Offline,Hearing,30,Beginner,52.95,Average,5,Low,0.96,1644,9.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,7,0.1,0.56
+24,89007,Rural,Hybrid,Kinesthetic,5,Intermediate,67.13,Poor,8,Medium,0.78,18677,3.3,"Algorithms, Data Structures, System Design",False,Hard,10,0.17,0.82
+24,88504,Urban,Online,Hearing,36,Advanced,52.95,Average,1,High,0.62,1611,3.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,13,0.39,0.12
+31,89208,Rural,Online,Visual,35,Advanced,94.78,Good,5,High,0.77,17955,9.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.56,0.01
+30,87696,Rural,Online,Visual,11,Advanced,95.9,Poor,5,Medium,0.63,2614,9.0,"Algorithms, Data Structures, System Design",False,Medium,0,0.04,0.73
+27,13493,Urban,Offline,Hearing,32,Beginner,74.56,Good,6,Low,0.6,14760,9.0,"Algorithms, Data Structures, System Design",True,Easy,11,0.01,0.38
+29,94638,Urban,Online,Kinesthetic,26,Beginner,92.39,Average,4,Low,0.52,5790,6.9,"Algorithms, Data Structures, System Design",True,Medium,11,0.34,0.27
+33,33049,Rural,Offline,Hearing,37,Advanced,97.91,Average,8,High,0.73,2736,1.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,6,0.04,0.22
+25,68588,Rural,Offline,Visual,21,Beginner,75.54,Good,1,Low,0.85,10579,1.6,"Linear Regression, Neural Networks, Deep Learning",False,Medium,8,0.79,0.04
+27,83021,Rural,Hybrid,Visual,10,Advanced,69.46,Average,1,Medium,0.55,8229,9.1,"Linear Regression, Neural Networks, Deep Learning",False,Easy,11,0.36,0.52
+26,37092,Rural,Online,Hearing,22,Beginner,68.07,Poor,5,Medium,0.55,19656,5.4,"Algorithms, Data Structures, System Design",False,Medium,12,0.4,0.72
+28,42880,Urban,Online,Kinesthetic,17,Intermediate,59.45,Poor,5,High,0.59,15107,5.7,"Algorithms, Data Structures, System Design",False,Easy,14,0.99,0.17
+26,20966,Suburban,Online,Visual,26,Beginner,75.67,Average,1,Low,0.58,4770,8.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,1,0.24,0.76
+29,45201,Rural,Hybrid,Hearing,12,Advanced,57.1,Poor,6,Low,0.61,14457,8.0,"Algorithms, Data Structures, System Design",False,Medium,3,0.62,0.11
+30,80394,Urban,Hybrid,Visual,31,Advanced,97.62,Average,1,Medium,0.58,4648,8.1,"Algorithms, Data Structures, System Design",True,Medium,5,0.95,0.92
+27,44783,Rural,Offline,Visual,10,Advanced,95.52,Poor,4,Medium,0.84,9067,1.9,"Algorithms, Data Structures, System Design",False,Easy,7,0.7,0.59
+24,55285,Rural,Offline,Kinesthetic,15,Advanced,78.39,Poor,9,Low,0.96,19591,3.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,13,0.66,0.54
+23,45567,Suburban,Hybrid,Visual,18,Advanced,50.19,Average,1,Low,0.81,12828,4.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,2,0.38,0.42
+20,59106,Urban,Online,Visual,6,Intermediate,65.56,Good,4,Medium,0.91,10044,7.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,0,0.12,0.28
+34,73156,Rural,Offline,Kinesthetic,21,Advanced,68.68,Average,4,Low,0.52,6674,9.1,"Linear Regression, Neural Networks, Deep Learning",False,Medium,3,0.53,0.33
+27,21932,Rural,Offline,Visual,16,Beginner,69.48,Poor,9,Low,0.63,19987,6.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,11,0.69,0.69
+22,74632,Suburban,Offline,Visual,38,Beginner,65.84,Average,1,High,0.74,4213,8.3,"Algorithms, Data Structures, System Design",True,Hard,12,0.66,0.64
+31,47281,Rural,Online,Visual,1,Beginner,74.17,Poor,1,Low,0.64,15380,6.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.22,0.77
+30,17497,Urban,Offline,Hearing,13,Advanced,77.38,Poor,2,Medium,0.8,3221,9.8,"Linear Regression, Neural Networks, Deep Learning",True,Hard,14,0.93,0.88
+31,55483,Rural,Offline,Hearing,25,Intermediate,69.48,Poor,5,Low,0.69,13295,8.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,14,0.21,0.88
+27,53792,Urban,Offline,Visual,9,Intermediate,71.57,Poor,7,High,0.73,8042,5.1,"Algorithms, Data Structures, System Design",True,Easy,14,0.42,0.1
+27,96705,Rural,Online,Hearing,15,Advanced,50.55,Average,7,Medium,0.85,1019,2.2,"Linear Regression, Neural Networks, Deep Learning",True,Hard,6,0.38,0.02
+34,80670,Suburban,Offline,Visual,26,Intermediate,63.92,Average,2,High,0.79,1714,7.2,"Linear Regression, Neural Networks, Deep Learning",False,Easy,4,0.37,0.88
+25,51138,Urban,Hybrid,Hearing,36,Advanced,86.61,Good,6,Low,0.81,1194,5.3,"Linear Regression, Neural Networks, Deep Learning",False,Easy,11,0.37,0.29
+22,46236,Urban,Online,Hearing,3,Beginner,85.13,Poor,7,High,0.87,8140,8.1,"Algorithms, Data Structures, System Design",False,Medium,8,0.1,0.38
+34,87628,Urban,Online,Hearing,8,Intermediate,53.36,Average,3,Medium,0.56,16142,3.9,"Linear Regression, Neural Networks, Deep Learning",True,Hard,14,0.93,0.15
+27,88167,Urban,Online,Hearing,16,Advanced,52.7,Average,1,Medium,0.61,6751,9.9,"Linear Regression, Neural Networks, Deep Learning",False,Easy,11,0.57,0.11
+26,27160,Rural,Online,Visual,22,Beginner,89.81,Poor,2,High,0.85,4560,5.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,9,0.8,0.61
+22,78054,Urban,Online,Hearing,10,Advanced,57.98,Poor,6,Medium,0.91,17053,8.4,"Linear Regression, Neural Networks, Deep Learning",True,Easy,9,0.35,0.72
+31,42306,Rural,Online,Kinesthetic,2,Advanced,52.04,Poor,2,High,0.71,9485,3.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,9,0.24,0.96
+32,87650,Urban,Hybrid,Hearing,16,Intermediate,94.48,Average,1,High,0.59,13603,9.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,0,0.56,0.99
+29,17587,Suburban,Hybrid,Visual,10,Intermediate,52.64,Average,1,High,0.82,3715,9.4,"Linear Regression, Neural Networks, Deep Learning",True,Medium,6,0.38,0.82
+33,60717,Rural,Offline,Visual,22,Intermediate,58.51,Average,1,Medium,0.61,5211,8.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,6,0.53,0.78
+19,81228,Urban,Online,Hearing,29,Advanced,70.67,Average,3,High,0.67,5151,6.9,"Algorithms, Data Structures, System Design",True,Hard,4,0.07,0.94
+21,49249,Suburban,Offline,Visual,5,Beginner,54.17,Good,8,Medium,0.73,2853,1.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,13,0.09,0.46
+22,94683,Urban,Hybrid,Visual,37,Advanced,67.4,Good,6,High,0.71,7275,4.8,"Linear Regression, Neural Networks, Deep Learning",False,Hard,2,0.05,0.12
+21,68731,Suburban,Offline,Visual,38,Beginner,56.42,Good,3,Low,0.94,16770,2.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,13,0.13,0.47
+34,62970,Urban,Hybrid,Visual,35,Beginner,57.2,Average,3,Medium,0.76,17444,6.3,"Linear Regression, Neural Networks, Deep Learning",True,Easy,2,0.23,0.31
+18,25746,Urban,Online,Visual,8,Beginner,95.67,Average,6,Medium,0.53,19916,9.7,"Algorithms, Data Structures, System Design",False,Medium,0,0.85,0.77
+18,48642,Suburban,Offline,Kinesthetic,14,Intermediate,54.14,Average,1,Low,0.76,9668,4.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,4,0.31,0.73
+27,66704,Suburban,Online,Kinesthetic,15,Beginner,52.49,Good,5,Low,0.58,12091,5.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,11,0.25,0.14
+32,77269,Urban,Online,Visual,35,Beginner,86.47,Poor,4,Medium,0.79,11821,6.4,"Linear Regression, Neural Networks, Deep Learning",False,Easy,14,0.94,0.26
+31,26562,Urban,Hybrid,Hearing,6,Beginner,75.43,Good,3,High,0.83,3969,1.5,"Algorithms, Data Structures, System Design",False,Hard,0,0.04,0.25
+31,96948,Urban,Offline,Hearing,20,Intermediate,96.28,Good,7,Low,0.74,19277,6.6,"Algorithms, Data Structures, System Design",False,Easy,0,0.26,1.0
+30,68729,Suburban,Online,Kinesthetic,13,Advanced,88.68,Poor,8,Medium,0.56,3290,2.3,"Algorithms, Data Structures, System Design",True,Easy,13,0.63,0.73
+33,17223,Suburban,Offline,Kinesthetic,18,Advanced,51.75,Poor,2,Low,0.51,16717,7.2,"Linear Regression, Neural Networks, Deep Learning",True,Hard,7,0.31,0.12
+19,83414,Suburban,Hybrid,Hearing,4,Beginner,84.3,Poor,5,Low,0.66,8135,5.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,5,0.9,0.21
+31,50989,Suburban,Hybrid,Kinesthetic,35,Intermediate,63.8,Poor,1,Low,0.72,17216,2.4,"Algorithms, Data Structures, System Design",True,Easy,12,0.7,0.55
+26,90209,Rural,Offline,Hearing,27,Intermediate,81.54,Poor,3,Low,0.67,11041,5.6,"Linear Regression, Neural Networks, Deep Learning",True,Hard,7,0.48,0.87
+29,97341,Rural,Hybrid,Visual,17,Beginner,95.91,Average,6,High,0.78,6595,8.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,10,0.75,0.09
+28,66057,Rural,Online,Hearing,19,Intermediate,82.76,Average,9,Low,0.66,16251,2.6,"Algorithms, Data Structures, System Design",False,Medium,1,0.61,0.32
+25,17999,Urban,Offline,Hearing,8,Advanced,77.75,Good,1,Low,0.85,19257,6.8,"Algorithms, Data Structures, System Design",True,Medium,0,0.62,0.0
+23,80120,Urban,Offline,Hearing,34,Advanced,62.71,Average,1,Low,0.83,19356,9.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,8,0.02,0.39
+21,88204,Rural,Online,Kinesthetic,30,Beginner,91.62,Good,5,Medium,0.67,7969,1.9,"Algorithms, Data Structures, System Design",True,Medium,0,0.85,0.91
+18,88733,Suburban,Offline,Hearing,8,Intermediate,51.31,Poor,1,Low,0.88,8785,6.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,9,1.0,0.34
+33,21195,Urban,Hybrid,Hearing,18,Intermediate,70.65,Poor,8,Low,0.53,4860,3.0,"Algorithms, Data Structures, System Design",False,Hard,10,0.74,0.46
+29,75734,Rural,Hybrid,Kinesthetic,36,Beginner,54.22,Good,1,Medium,0.54,17281,1.5,"Algorithms, Data Structures, System Design",True,Hard,7,0.92,0.86
+33,25627,Rural,Hybrid,Visual,30,Advanced,81.85,Average,7,High,0.62,15542,5.4,"Algorithms, Data Structures, System Design",True,Easy,9,0.0,0.46
+29,12378,Urban,Online,Visual,7,Beginner,60.71,Good,8,High,0.72,1304,5.0,"Algorithms, Data Structures, System Design",False,Medium,13,0.98,0.37
+19,75460,Urban,Online,Hearing,5,Beginner,60.45,Average,6,Medium,0.99,19949,9.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,6,0.99,0.83
+23,19622,Urban,Hybrid,Visual,27,Advanced,72.53,Average,2,Medium,0.95,14242,8.7,"Algorithms, Data Structures, System Design",False,Easy,4,0.53,0.93
+26,50393,Suburban,Offline,Kinesthetic,21,Advanced,83.6,Good,1,Medium,0.74,9424,2.7,"Algorithms, Data Structures, System Design",True,Hard,13,0.8,0.79
+23,40150,Suburban,Hybrid,Kinesthetic,19,Beginner,58.22,Average,4,Medium,0.55,10281,2.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,6,0.82,0.39
+25,86501,Urban,Hybrid,Kinesthetic,5,Beginner,84.57,Average,6,Low,0.95,7050,1.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,7,0.28,0.93
+22,77584,Suburban,Hybrid,Kinesthetic,29,Intermediate,68.55,Good,8,Low,0.62,6573,8.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,9,0.2,0.31
+34,81149,Suburban,Offline,Hearing,16,Advanced,68.79,Good,3,Low,0.73,10027,3.0,"Linear Regression, Neural Networks, Deep Learning",False,Easy,5,0.27,0.45
+27,36712,Suburban,Online,Visual,39,Intermediate,92.64,Average,5,Medium,0.58,18091,5.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,1,0.71,0.2
+27,12889,Urban,Online,Visual,14,Intermediate,87.94,Good,1,Medium,0.59,12870,2.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,0,0.93,0.14
+26,21293,Rural,Offline,Hearing,13,Intermediate,74.92,Good,5,High,0.69,1632,5.5,"Algorithms, Data Structures, System Design",False,Medium,10,0.48,0.12
+31,90149,Urban,Hybrid,Hearing,32,Advanced,83.82,Good,8,Low,0.99,15995,1.7,"Algorithms, Data Structures, System Design",False,Easy,7,0.97,0.14
+26,79687,Suburban,Offline,Hearing,30,Beginner,82.03,Poor,3,High,0.87,19667,4.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,14,0.06,0.47
+23,28913,Urban,Online,Visual,11,Beginner,79.98,Average,4,High,0.69,3746,1.0,"Linear Regression, Neural Networks, Deep Learning",False,Medium,7,0.02,0.21
+24,99585,Suburban,Offline,Visual,7,Intermediate,83.26,Average,4,High,0.99,2480,5.1,"Algorithms, Data Structures, System Design",False,Hard,12,0.92,0.35
+28,20731,Suburban,Offline,Visual,23,Beginner,83.82,Poor,1,Medium,0.68,3393,4.3,"Linear Regression, Neural Networks, Deep Learning",True,Easy,5,0.82,0.57
+34,65941,Rural,Hybrid,Hearing,33,Advanced,85.29,Good,8,Medium,0.8,11682,2.9,"Linear Regression, Neural Networks, Deep Learning",False,Medium,7,0.85,0.99
+28,13217,Suburban,Hybrid,Hearing,18,Advanced,74.91,Average,3,Low,0.73,15884,3.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,5,0.65,0.59
+22,43282,Rural,Hybrid,Hearing,8,Advanced,81.42,Good,5,Low,0.96,19790,2.1,"Linear Regression, Neural Networks, Deep Learning",False,Hard,5,0.19,0.56
+29,88030,Suburban,Online,Visual,7,Beginner,53.19,Average,8,High,0.76,19963,7.0,"Linear Regression, Neural Networks, Deep Learning",False,Medium,7,0.36,0.4
+20,46358,Rural,Hybrid,Hearing,28,Intermediate,73.22,Average,7,High,0.7,3104,1.0,"Algorithms, Data Structures, System Design",False,Hard,5,0.41,0.25
+24,57971,Urban,Hybrid,Visual,38,Beginner,53.86,Poor,9,Low,0.71,18765,7.2,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.38,0.59
+25,36838,Rural,Online,Visual,28,Beginner,66.25,Poor,1,Medium,0.6,18806,7.8,"Algorithms, Data Structures, System Design",True,Easy,4,0.35,0.23
+19,68753,Rural,Hybrid,Kinesthetic,37,Intermediate,92.06,Average,1,Medium,0.95,10605,3.4,"Algorithms, Data Structures, System Design",True,Medium,5,0.25,0.15
+28,46840,Rural,Hybrid,Hearing,24,Advanced,59.75,Average,1,Medium,0.69,8828,7.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,2,0.25,0.61
+32,12792,Suburban,Offline,Visual,26,Intermediate,66.47,Average,5,Medium,0.55,11101,9.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,8,0.53,0.34
+25,53891,Urban,Hybrid,Kinesthetic,2,Intermediate,72.38,Average,3,Medium,0.6,8523,4.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,14,0.26,0.74
+29,40513,Rural,Hybrid,Hearing,14,Beginner,78.84,Good,8,Medium,0.86,8787,2.8,"Algorithms, Data Structures, System Design",False,Hard,11,0.61,0.38
+21,26713,Suburban,Online,Kinesthetic,34,Advanced,67.74,Good,8,High,0.73,9006,6.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,11,0.71,0.45
+19,12790,Rural,Hybrid,Kinesthetic,26,Advanced,52.92,Average,5,High,0.62,11867,8.9,"Linear Regression, Neural Networks, Deep Learning",False,Easy,8,0.77,0.75
+20,78244,Rural,Offline,Hearing,28,Advanced,50.56,Average,8,High,0.75,6562,5.4,"Linear Regression, Neural Networks, Deep Learning",True,Hard,5,0.88,0.16
+33,31602,Suburban,Hybrid,Kinesthetic,4,Intermediate,54.42,Average,4,Low,0.65,6874,4.1,"Algorithms, Data Structures, System Design",False,Easy,2,0.17,0.52
+25,90473,Rural,Offline,Kinesthetic,27,Beginner,78.03,Poor,3,Low,0.94,12391,6.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,7,0.37,0.88
+33,63538,Urban,Offline,Kinesthetic,10,Beginner,86.69,Poor,9,Low,0.62,3527,5.8,"Algorithms, Data Structures, System Design",True,Easy,10,0.32,0.48
+24,80767,Urban,Offline,Kinesthetic,1,Advanced,68.15,Good,3,High,0.6,3909,1.6,"Linear Regression, Neural Networks, Deep Learning",True,Medium,6,0.7,0.08
+31,23324,Rural,Offline,Hearing,38,Intermediate,85.72,Poor,4,Medium,0.91,6137,9.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,8,0.86,0.77
+32,19629,Suburban,Offline,Hearing,26,Advanced,90.16,Good,6,Low,0.64,9127,5.8,"Linear Regression, Neural Networks, Deep Learning",False,Medium,8,0.49,0.3
+27,33306,Suburban,Online,Hearing,29,Advanced,78.86,Poor,6,Medium,0.53,4435,5.2,"Linear Regression, Neural Networks, Deep Learning",True,Easy,0,0.48,0.6
+31,85210,Suburban,Hybrid,Hearing,13,Advanced,67.94,Good,7,High,0.72,5273,1.3,"Algorithms, Data Structures, System Design",True,Medium,5,0.92,0.33
+27,42636,Suburban,Offline,Visual,13,Intermediate,80.93,Average,1,Low,0.6,14766,6.7,"Algorithms, Data Structures, System Design",False,Hard,1,0.15,0.3
+22,15705,Urban,Offline,Visual,25,Advanced,65.63,Good,5,Medium,0.66,3996,5.4,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.31,0.61
+26,22663,Suburban,Online,Visual,24,Intermediate,73.04,Good,7,Medium,0.91,4722,6.9,"Linear Regression, Neural Networks, Deep Learning",False,Easy,7,0.52,0.62
+19,24679,Rural,Offline,Hearing,18,Advanced,81.81,Good,5,Low,0.58,1045,3.5,"Algorithms, Data Structures, System Design",True,Hard,1,0.04,0.27
+31,90724,Suburban,Hybrid,Kinesthetic,19,Intermediate,94.34,Poor,1,Low,0.64,19224,4.3,"Algorithms, Data Structures, System Design",True,Easy,8,0.46,0.71
+27,67711,Rural,Offline,Hearing,3,Advanced,89.9,Poor,8,Medium,0.69,18674,7.0,"Algorithms, Data Structures, System Design",True,Easy,14,0.32,0.56
+25,49873,Suburban,Online,Hearing,3,Intermediate,62.56,Poor,3,Low,0.5,9610,6.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,12,0.93,0.36
+30,52133,Rural,Offline,Kinesthetic,1,Advanced,79.97,Average,2,Low,0.77,8261,7.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,6,0.09,0.25
+33,87202,Suburban,Offline,Kinesthetic,18,Advanced,87.91,Average,2,High,0.59,6588,3.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,10,0.64,0.65
+21,61740,Urban,Online,Hearing,6,Advanced,64.69,Poor,8,Medium,0.63,4357,4.4,"Linear Regression, Neural Networks, Deep Learning",False,Hard,5,0.69,0.9
+31,29170,Urban,Online,Visual,39,Advanced,77.22,Poor,8,Medium,0.55,12402,8.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,13,0.73,0.85
+30,59250,Rural,Online,Visual,2,Beginner,76.83,Average,5,High,0.68,3134,1.2,"Algorithms, Data Structures, System Design",False,Hard,4,0.41,0.21
+26,98371,Suburban,Offline,Visual,14,Beginner,80.25,Poor,3,Medium,0.6,8345,3.5,"Algorithms, Data Structures, System Design",True,Medium,12,0.19,0.67
+28,98340,Urban,Hybrid,Visual,1,Beginner,58.25,Good,4,Medium,0.58,19505,6.7,"Algorithms, Data Structures, System Design",False,Hard,1,0.89,0.05
+22,23856,Urban,Offline,Visual,27,Beginner,90.29,Poor,6,Low,0.67,8483,10.0,"Algorithms, Data Structures, System Design",False,Easy,13,0.06,0.92
+31,29791,Rural,Online,Kinesthetic,22,Beginner,82.98,Good,8,Low,0.91,3600,1.1,"Algorithms, Data Structures, System Design",False,Hard,4,0.66,0.85
+19,12295,Rural,Online,Hearing,11,Advanced,58.2,Average,7,High,0.55,17288,9.9,"Algorithms, Data Structures, System Design",True,Medium,2,0.51,0.47
+24,78509,Suburban,Online,Visual,30,Beginner,51.98,Good,2,High,0.61,19792,2.6,"Algorithms, Data Structures, System Design",False,Easy,2,0.98,0.96
+34,77013,Suburban,Hybrid,Kinesthetic,13,Advanced,83.78,Good,4,Low,0.58,17448,2.9,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,0,0.84,0.4
+27,62158,Suburban,Online,Visual,19,Advanced,82.33,Poor,4,High,0.62,16685,7.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,0,0.66,0.48
+27,67866,Suburban,Offline,Kinesthetic,23,Beginner,52.22,Poor,7,Low,0.73,13627,4.9,"Algorithms, Data Structures, System Design",False,Easy,8,0.39,0.87
+30,15169,Urban,Offline,Visual,21,Beginner,63.46,Poor,4,Medium,0.94,5290,2.6,"Linear Regression, Neural Networks, Deep Learning",True,Hard,14,0.13,0.9
+21,91587,Urban,Online,Visual,39,Advanced,66.67,Average,7,Medium,0.62,18509,9.6,"Algorithms, Data Structures, System Design",False,Medium,13,0.73,0.19
+20,79564,Suburban,Online,Hearing,19,Advanced,62.64,Good,6,Medium,0.86,4617,3.3,"Algorithms, Data Structures, System Design",True,Easy,8,0.39,0.52
+33,56583,Urban,Offline,Hearing,22,Advanced,66.52,Poor,5,Medium,0.89,7890,7.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,5,0.16,0.09
+18,13360,Urban,Online,Visual,3,Advanced,56.61,Good,5,High,0.59,2629,9.4,"Algorithms, Data Structures, System Design",True,Hard,12,0.72,1.0
+28,11760,Urban,Offline,Visual,34,Advanced,64.35,Good,9,Medium,0.58,17178,5.5,"Linear Regression, Neural Networks, Deep Learning",False,Medium,7,0.73,0.64
+26,62817,Suburban,Online,Hearing,20,Advanced,63.55,Good,7,Low,0.61,3564,1.3,"Algorithms, Data Structures, System Design",True,Medium,14,0.47,0.7
+19,14654,Suburban,Online,Kinesthetic,20,Intermediate,68.37,Good,3,Low,0.79,2015,3.0,"Linear Regression, Neural Networks, Deep Learning",True,Medium,11,0.74,0.5
+18,63361,Urban,Online,Kinesthetic,33,Advanced,95.46,Average,6,High,0.83,8016,5.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,6,0.42,0.49
+19,60267,Rural,Online,Visual,39,Intermediate,61.71,Poor,9,Medium,0.85,9076,1.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,5,0.84,0.22
+25,57788,Rural,Online,Visual,38,Intermediate,94.54,Poor,8,Medium,0.76,16529,4.4,"Algorithms, Data Structures, System Design",False,Easy,4,0.03,0.32
+23,32539,Suburban,Hybrid,Visual,38,Advanced,63.79,Poor,9,Low,0.81,1406,4.1,"Algorithms, Data Structures, System Design",True,Hard,1,0.85,0.42
+19,65455,Suburban,Offline,Hearing,11,Advanced,65.11,Poor,5,Low,0.87,4292,1.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,11,0.38,0.07
+18,51028,Rural,Hybrid,Hearing,15,Intermediate,82.67,Poor,9,High,0.75,13260,6.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,9,0.59,0.99
+33,83152,Rural,Offline,Hearing,37,Advanced,59.44,Average,7,High,0.7,10947,7.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,4,0.45,0.4
+33,25565,Urban,Offline,Kinesthetic,4,Intermediate,50.9,Good,9,Medium,0.74,2488,2.1,"Algorithms, Data Structures, System Design",False,Easy,1,0.82,0.62
+34,41577,Urban,Online,Hearing,5,Intermediate,50.49,Poor,4,High,0.95,19516,9.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,3,0.38,0.1
+25,24120,Urban,Online,Hearing,2,Advanced,80.62,Average,2,Medium,0.65,2354,7.9,"Algorithms, Data Structures, System Design",False,Easy,10,0.73,0.45
+30,69756,Rural,Online,Visual,24,Advanced,69.89,Average,3,Medium,0.77,15497,5.5,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,12,0.78,0.27
+26,38812,Rural,Offline,Visual,22,Advanced,53.3,Good,8,High,0.69,4711,2.7,"Algorithms, Data Structures, System Design",False,Easy,13,0.48,0.11
+20,33710,Urban,Online,Hearing,2,Advanced,73.89,Poor,4,Low,0.57,2541,7.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,6,0.61,0.35
+19,68443,Urban,Hybrid,Visual,6,Advanced,63.93,Poor,8,High,0.82,6698,5.6,"Algorithms, Data Structures, System Design",False,Easy,13,0.92,0.43
+32,34243,Rural,Online,Hearing,9,Beginner,55.6,Good,8,Low,0.57,6439,6.3,"Algorithms, Data Structures, System Design",False,Hard,0,0.99,0.31
+30,49278,Urban,Offline,Visual,11,Intermediate,56.87,Average,9,High,0.56,2435,6.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,13,0.39,0.27
+20,96518,Urban,Online,Hearing,23,Beginner,74.82,Good,8,Medium,0.75,16670,5.8,"Algorithms, Data Structures, System Design",True,Hard,8,0.41,0.69
+20,14154,Rural,Hybrid,Visual,14,Intermediate,60.61,Average,8,High,0.62,12697,7.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,14,0.57,0.41
+27,62076,Suburban,Offline,Visual,25,Advanced,69.82,Good,8,Low,0.73,18728,4.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,1,0.03,0.75
+23,45104,Suburban,Hybrid,Kinesthetic,16,Advanced,88.86,Poor,6,Medium,0.82,13506,6.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,10,0.54,0.03
+24,85295,Urban,Offline,Hearing,25,Intermediate,89.44,Good,9,Medium,0.82,15443,2.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,12,0.58,0.77
+24,84919,Urban,Online,Visual,31,Advanced,93.55,Poor,4,Medium,0.53,8452,9.1,"Linear Regression, Neural Networks, Deep Learning",True,Medium,7,0.24,0.27
+19,58538,Rural,Online,Kinesthetic,37,Beginner,58.1,Good,8,Medium,0.83,9672,9.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,0,0.03,0.49
+23,75041,Suburban,Online,Hearing,15,Beginner,92.6,Good,7,Low,0.97,10104,9.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,3,0.64,0.71
+33,92554,Rural,Hybrid,Kinesthetic,29,Intermediate,79.41,Good,3,Medium,0.54,8661,3.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,0,0.62,0.68
+30,62785,Rural,Online,Kinesthetic,13,Advanced,53.73,Poor,9,High,0.77,15841,3.1,"Algorithms, Data Structures, System Design",True,Hard,10,0.38,0.13
+30,49736,Urban,Offline,Visual,14,Advanced,97.98,Poor,8,Low,0.98,10771,8.6,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,1,0.43,0.18
+26,98384,Rural,Offline,Kinesthetic,19,Beginner,85.65,Good,5,Low,0.88,6922,4.6,"Linear Regression, Neural Networks, Deep Learning",False,Easy,1,0.81,0.99
+20,77131,Urban,Hybrid,Visual,20,Intermediate,61.87,Poor,4,Medium,0.78,1048,4.2,"Algorithms, Data Structures, System Design",False,Easy,0,0.13,0.05
+22,22029,Urban,Online,Hearing,26,Intermediate,58.83,Average,5,High,0.8,7857,1.0,"Algorithms, Data Structures, System Design",False,Medium,1,0.97,0.56
+27,56557,Urban,Hybrid,Visual,33,Beginner,75.61,Average,8,Medium,0.91,18002,4.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,13,0.66,0.09
+20,81978,Urban,Online,Hearing,16,Intermediate,68.64,Average,3,High,0.57,13163,2.1,"Algorithms, Data Structures, System Design",True,Medium,7,0.49,0.54
+25,24340,Suburban,Online,Visual,15,Beginner,60.11,Good,5,Low,0.63,12386,9.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,14,0.18,0.56
+23,45939,Rural,Online,Visual,30,Beginner,94.17,Poor,5,High,0.74,12058,6.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,1,0.3,0.44
+29,57035,Rural,Hybrid,Hearing,33,Advanced,78.25,Poor,8,Medium,0.82,12841,1.8,"Algorithms, Data Structures, System Design",False,Hard,9,0.24,0.98
+30,62565,Urban,Hybrid,Visual,29,Beginner,66.03,Average,7,High,0.52,15342,7.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,1,0.33,0.33
+18,51042,Urban,Hybrid,Visual,5,Advanced,94.82,Average,7,Medium,0.96,9186,2.5,"Algorithms, Data Structures, System Design",False,Easy,12,0.47,0.81
+26,44084,Suburban,Online,Visual,31,Beginner,90.76,Average,8,Medium,0.79,12295,1.1,"Algorithms, Data Structures, System Design",True,Hard,11,0.44,0.55
+28,26980,Suburban,Online,Kinesthetic,28,Advanced,91.51,Average,1,Medium,0.92,7282,7.0,"Algorithms, Data Structures, System Design",False,Medium,11,0.99,0.84
+31,13944,Suburban,Hybrid,Kinesthetic,25,Intermediate,51.65,Average,1,Medium,0.99,2840,6.4,"Algorithms, Data Structures, System Design",True,Medium,13,0.58,0.56
+31,73635,Rural,Offline,Kinesthetic,10,Intermediate,66.82,Poor,4,Medium,0.76,19840,1.5,"Algorithms, Data Structures, System Design",False,Medium,2,0.42,0.62
+21,29425,Urban,Online,Kinesthetic,32,Beginner,74.4,Good,7,Medium,0.6,9255,6.1,"Algorithms, Data Structures, System Design",True,Easy,9,0.63,1.0
+27,18468,Rural,Hybrid,Visual,22,Advanced,92.26,Poor,2,High,0.55,13367,3.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,12,0.94,0.62
+30,55470,Urban,Online,Hearing,30,Beginner,56.21,Poor,2,High,0.95,3383,7.3,"Algorithms, Data Structures, System Design",False,Easy,9,0.1,0.16
+32,86721,Rural,Online,Hearing,9,Intermediate,93.58,Good,7,Low,0.6,2004,1.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,2,0.06,0.41
+22,97974,Rural,Online,Hearing,3,Beginner,99.24,Poor,8,Medium,0.65,13526,7.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,7,0.51,0.16
+23,80238,Suburban,Online,Hearing,4,Advanced,72.4,Average,4,Low,0.54,11549,3.3,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.71,0.64
+21,33747,Rural,Online,Kinesthetic,8,Advanced,90.76,Average,5,High,0.78,4995,9.6,"Linear Regression, Neural Networks, Deep Learning",True,Hard,7,0.65,0.14
+33,70422,Urban,Offline,Visual,39,Advanced,75.67,Poor,8,Medium,0.58,19388,9.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,11,0.31,0.49
+21,84692,Suburban,Offline,Visual,39,Advanced,96.48,Average,8,Medium,0.55,5161,7.8,"Algorithms, Data Structures, System Design",True,Medium,2,0.37,0.55
+30,28829,Suburban,Online,Kinesthetic,33,Advanced,96.13,Poor,1,Medium,0.5,10908,1.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,13,0.9,0.99
+32,75321,Urban,Offline,Hearing,19,Advanced,75.69,Average,1,Low,0.92,18667,7.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,8,0.29,0.85
+26,41186,Rural,Online,Hearing,1,Advanced,81.63,Average,7,Medium,0.53,16829,3.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,3,0.54,0.2
+33,29106,Suburban,Offline,Visual,3,Beginner,63.39,Poor,9,Medium,0.84,13779,9.3,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,7,0.47,0.81
+31,33235,Rural,Hybrid,Hearing,24,Intermediate,98.76,Average,5,Medium,0.62,7125,6.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,9,0.41,0.67
+25,46169,Urban,Online,Hearing,2,Advanced,57.73,Good,9,Medium,0.62,18171,3.5,"Linear Regression, Neural Networks, Deep Learning",False,Easy,2,0.77,0.54
+23,21051,Rural,Online,Visual,39,Advanced,76.7,Average,2,High,0.87,11224,5.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,8,0.74,0.43
+19,70088,Suburban,Offline,Kinesthetic,6,Advanced,61.04,Good,4,High,0.72,18752,5.0,"Algorithms, Data Structures, System Design",False,Easy,8,0.66,0.87
+22,22497,Rural,Online,Kinesthetic,29,Beginner,95.35,Poor,6,Low,0.61,13952,8.1,"Linear Regression, Neural Networks, Deep Learning",False,Easy,0,0.89,0.67
+20,17231,Rural,Offline,Visual,16,Beginner,68.12,Good,9,Medium,0.64,6616,3.7,"Algorithms, Data Structures, System Design",True,Medium,4,0.51,0.66
+24,63980,Suburban,Online,Kinesthetic,39,Intermediate,97.68,Average,6,Low,0.56,1743,8.8,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.28,0.87
+22,96249,Rural,Offline,Kinesthetic,9,Intermediate,54.99,Good,5,Medium,0.95,13559,8.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,6,0.62,0.5
+25,93784,Rural,Hybrid,Visual,18,Intermediate,87.1,Average,2,Medium,0.54,13237,9.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,6,0.42,0.42
+20,22825,Rural,Offline,Visual,28,Advanced,71.84,Average,5,High,1.0,13690,6.0,"Algorithms, Data Structures, System Design",True,Easy,8,0.67,0.36
+20,15272,Urban,Offline,Visual,25,Intermediate,52.08,Average,4,High,0.62,12164,4.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,3,0.24,0.99
+21,67308,Suburban,Offline,Hearing,20,Advanced,54.76,Good,9,High,0.74,2418,2.8,"Algorithms, Data Structures, System Design",True,Hard,0,0.69,0.93
+33,70244,Suburban,Hybrid,Visual,33,Advanced,98.37,Poor,9,Low,0.56,5555,5.9,"Algorithms, Data Structures, System Design",False,Hard,12,0.8,0.2
+19,50272,Rural,Online,Kinesthetic,26,Intermediate,69.4,Average,6,Medium,0.84,19248,7.4,"Algorithms, Data Structures, System Design",True,Hard,10,0.15,0.72
+25,53041,Suburban,Offline,Hearing,37,Beginner,99.22,Good,5,Medium,0.51,7139,7.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,11,0.13,0.12
+20,16331,Urban,Hybrid,Kinesthetic,18,Intermediate,55.53,Good,3,High,0.9,17877,9.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,14,0.85,0.81
+28,59161,Urban,Online,Visual,21,Intermediate,88.83,Average,3,High,0.59,15001,8.6,"Algorithms, Data Structures, System Design",True,Medium,14,0.22,0.98
+34,10852,Suburban,Online,Kinesthetic,32,Advanced,84.11,Good,6,Low,0.84,11393,5.6,"Linear Regression, Neural Networks, Deep Learning",True,Medium,4,0.01,0.87
+29,73818,Urban,Hybrid,Visual,5,Beginner,51.45,Good,5,Low,0.88,13632,5.2,"Algorithms, Data Structures, System Design",True,Medium,1,0.6,0.09
+18,72578,Rural,Offline,Kinesthetic,6,Advanced,80.16,Poor,7,Medium,0.7,10371,7.4,"Linear Regression, Neural Networks, Deep Learning",True,Hard,1,0.31,0.9
+34,83212,Suburban,Online,Hearing,18,Advanced,83.74,Poor,4,Medium,0.69,10463,6.8,"Algorithms, Data Structures, System Design",False,Hard,5,0.82,0.74
+26,74928,Rural,Offline,Kinesthetic,23,Beginner,77.44,Average,1,Medium,0.51,5169,5.3,"Linear Regression, Neural Networks, Deep Learning",False,Medium,2,0.05,0.25
+19,32506,Urban,Online,Visual,23,Beginner,65.37,Average,4,High,0.66,3854,9.4,"Algorithms, Data Structures, System Design",False,Medium,5,0.53,0.58
+18,79818,Rural,Offline,Visual,39,Advanced,59.48,Poor,3,High,0.72,14378,2.7,"Algorithms, Data Structures, System Design",False,Medium,4,0.29,0.02
+21,70051,Rural,Hybrid,Hearing,39,Advanced,62.78,Average,9,Medium,0.83,19690,3.0,"Algorithms, Data Structures, System Design",True,Medium,8,0.06,0.29
+25,80570,Suburban,Hybrid,Visual,4,Intermediate,66.12,Good,7,High,0.67,17959,9.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.19,0.49
+22,17247,Rural,Offline,Visual,10,Beginner,82.36,Poor,9,High,0.65,9840,3.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,8,0.21,0.84
+27,87270,Rural,Hybrid,Hearing,3,Intermediate,89.0,Good,6,Medium,0.56,14392,8.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,11,0.93,0.27
+18,89043,Rural,Hybrid,Kinesthetic,25,Advanced,62.65,Good,4,Medium,0.89,18749,2.7,"Algorithms, Data Structures, System Design",False,Easy,4,0.97,0.77
+25,67083,Urban,Offline,Visual,27,Advanced,99.68,Poor,4,Low,0.87,10821,7.4,"Linear Regression, Neural Networks, Deep Learning",True,Medium,6,0.24,0.12
+28,79359,Rural,Hybrid,Visual,30,Beginner,74.79,Good,7,Medium,0.99,6636,7.3,"Linear Regression, Neural Networks, Deep Learning",True,Hard,9,0.72,0.82
+24,75435,Rural,Offline,Visual,15,Intermediate,63.44,Average,2,High,0.86,3897,8.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,0,0.95,0.04
+27,50700,Suburban,Hybrid,Kinesthetic,10,Advanced,61.7,Average,1,Low,0.68,3323,8.7,"Algorithms, Data Structures, System Design",False,Hard,2,0.57,0.19
+23,30298,Urban,Online,Kinesthetic,14,Beginner,91.56,Average,4,Medium,0.54,16586,8.9,"Algorithms, Data Structures, System Design",False,Medium,8,0.19,0.24
+33,61312,Urban,Hybrid,Kinesthetic,11,Beginner,98.46,Good,1,High,0.68,1431,5.8,"Algorithms, Data Structures, System Design",False,Easy,4,0.46,0.57
+25,24843,Rural,Online,Hearing,23,Beginner,55.98,Good,8,Medium,0.91,9786,8.4,"Algorithms, Data Structures, System Design",False,Hard,0,0.88,0.65
+20,69266,Rural,Online,Hearing,24,Beginner,59.82,Average,6,Low,0.76,12678,7.6,"Algorithms, Data Structures, System Design",False,Hard,9,0.75,0.07
+18,69594,Rural,Offline,Visual,1,Beginner,73.35,Average,4,Medium,0.91,18215,8.4,"Algorithms, Data Structures, System Design",True,Easy,6,0.67,0.38
+30,87709,Urban,Online,Visual,8,Intermediate,69.19,Poor,4,High,0.86,14097,8.3,"Algorithms, Data Structures, System Design",False,Hard,0,0.68,0.16
+20,53010,Rural,Online,Hearing,9,Intermediate,69.77,Average,8,Medium,0.75,3642,7.6,"Linear Regression, Neural Networks, Deep Learning",True,Hard,12,0.98,0.63
+22,50597,Rural,Online,Kinesthetic,36,Intermediate,62.39,Good,9,High,0.76,2927,2.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,12,0.83,0.61
+32,30107,Rural,Online,Visual,2,Beginner,67.45,Average,9,Medium,0.87,16390,9.2,"Linear Regression, Neural Networks, Deep Learning",False,Medium,1,0.78,0.15
+26,25980,Suburban,Offline,Kinesthetic,22,Beginner,88.76,Poor,6,Low,0.88,13569,8.1,"Algorithms, Data Structures, System Design",False,Hard,6,0.92,0.85
+34,27007,Urban,Hybrid,Hearing,28,Beginner,79.23,Average,5,Medium,0.95,3472,3.8,"Linear Regression, Neural Networks, Deep Learning",True,Easy,7,0.07,0.51
+24,85825,Rural,Offline,Kinesthetic,33,Advanced,88.01,Average,6,High,0.75,17633,8.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,0,0.1,0.67
+25,58241,Urban,Hybrid,Kinesthetic,33,Advanced,64.43,Poor,5,Low,0.56,8292,9.4,"Linear Regression, Neural Networks, Deep Learning",False,Easy,7,0.75,0.11
+33,19655,Rural,Online,Hearing,39,Beginner,85.54,Good,9,Medium,0.53,5994,5.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,11,0.32,0.29
+34,76626,Urban,Offline,Visual,30,Advanced,84.12,Good,2,Medium,0.76,2704,3.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,3,0.84,0.89
+28,36037,Urban,Online,Visual,2,Intermediate,75.99,Good,2,Medium,0.85,17753,7.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,2,0.79,0.81
+27,56708,Urban,Online,Hearing,18,Intermediate,68.63,Average,7,Medium,0.75,9027,2.8,"Algorithms, Data Structures, System Design",False,Hard,12,0.79,0.8
+23,18147,Suburban,Hybrid,Kinesthetic,12,Beginner,55.42,Average,1,Low,0.98,5246,9.0,"Linear Regression, Neural Networks, Deep Learning",False,Medium,4,0.77,0.95
+25,62215,Suburban,Online,Hearing,2,Advanced,62.46,Good,7,Low,0.78,14471,1.0,"Algorithms, Data Structures, System Design",False,Hard,13,0.6,0.7
+21,41221,Suburban,Online,Kinesthetic,39,Advanced,57.69,Good,7,High,0.91,6359,5.7,"Algorithms, Data Structures, System Design",True,Medium,7,0.41,0.22
+22,63338,Suburban,Hybrid,Visual,5,Beginner,78.54,Average,4,Low,0.94,4129,7.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,3,0.42,0.73
+26,46675,Rural,Hybrid,Kinesthetic,20,Advanced,95.64,Good,2,Medium,0.66,5451,7.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,8,0.42,0.47
+33,99073,Rural,Hybrid,Visual,38,Intermediate,89.79,Average,6,Low,0.86,12201,6.5,"Linear Regression, Neural Networks, Deep Learning",False,Medium,3,0.86,0.02
+31,89822,Suburban,Online,Visual,38,Intermediate,60.28,Good,6,Low,0.9,6378,3.3,"Algorithms, Data Structures, System Design",True,Hard,1,0.09,1.0
+25,81765,Suburban,Offline,Kinesthetic,11,Advanced,83.68,Poor,6,Low,0.73,6768,8.2,"Algorithms, Data Structures, System Design",True,Medium,13,0.53,0.45
+23,99512,Urban,Hybrid,Hearing,8,Advanced,53.9,Average,8,Low,0.96,17147,9.7,"Linear Regression, Neural Networks, Deep Learning",True,Easy,4,0.26,0.29
+30,26594,Rural,Offline,Visual,4,Intermediate,63.54,Poor,1,Medium,0.59,4367,1.3,"Linear Regression, Neural Networks, Deep Learning",False,Easy,3,0.92,0.27
+23,77562,Urban,Online,Kinesthetic,4,Advanced,67.65,Poor,9,High,0.59,4583,4.1,"Linear Regression, Neural Networks, Deep Learning",True,Hard,2,0.38,0.07
+24,83743,Rural,Offline,Hearing,21,Beginner,87.71,Good,5,Medium,0.81,4753,9.1,"Linear Regression, Neural Networks, Deep Learning",False,Easy,2,0.76,0.93
+29,12547,Urban,Hybrid,Visual,30,Advanced,63.52,Good,7,Low,0.59,11433,1.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,9,0.12,0.23
+23,74029,Rural,Hybrid,Visual,9,Advanced,53.43,Average,2,Medium,0.84,11546,4.8,"Algorithms, Data Structures, System Design",True,Easy,0,0.08,0.66
+21,27843,Urban,Offline,Visual,32,Advanced,52.65,Poor,1,High,0.54,19412,5.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,10,0.7,0.46
+28,43534,Rural,Offline,Kinesthetic,35,Advanced,81.06,Poor,9,Medium,0.68,8948,4.4,"Algorithms, Data Structures, System Design",True,Hard,10,0.4,0.68
+29,92890,Suburban,Offline,Kinesthetic,16,Advanced,84.74,Poor,2,High,0.93,5951,3.6,"Linear Regression, Neural Networks, Deep Learning",False,Hard,6,0.42,0.74
+24,84598,Rural,Hybrid,Hearing,34,Advanced,98.39,Poor,9,High,0.59,19773,6.9,"Linear Regression, Neural Networks, Deep Learning",True,Medium,7,0.15,0.82
+26,69324,Rural,Offline,Kinesthetic,9,Intermediate,84.21,Poor,6,Low,0.58,3787,9.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.52,0.26
+26,29179,Urban,Online,Hearing,28,Intermediate,76.39,Poor,9,Low,0.99,13566,7.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,11,0.39,0.43
+18,61311,Suburban,Offline,Kinesthetic,30,Intermediate,87.89,Good,2,Medium,0.63,17255,7.1,"Linear Regression, Neural Networks, Deep Learning",True,Hard,7,0.98,0.93
+19,50303,Rural,Offline,Hearing,11,Advanced,79.33,Good,9,High,0.77,10667,8.0,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,7,0.69,0.56
+32,58598,Urban,Hybrid,Hearing,29,Beginner,98.53,Good,9,Low,0.76,17648,6.8,"Algorithms, Data Structures, System Design",False,Medium,11,0.87,0.27
+32,67319,Rural,Hybrid,Visual,39,Beginner,55.1,Average,7,Low,0.7,14627,3.1,"Linear Regression, Neural Networks, Deep Learning",True,Medium,13,0.08,0.34
+34,98928,Rural,Hybrid,Hearing,23,Beginner,65.82,Poor,9,High,0.65,2876,6.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,9,0.23,0.67
+28,11617,Rural,Offline,Kinesthetic,31,Intermediate,54.49,Good,4,Low,0.63,15512,9.6,"Algorithms, Data Structures, System Design",True,Easy,7,0.13,0.1
+33,87465,Urban,Hybrid,Hearing,33,Intermediate,50.24,Average,8,High,0.68,16329,6.5,"Algorithms, Data Structures, System Design",False,Easy,5,0.41,0.6
+32,69334,Urban,Offline,Hearing,28,Intermediate,65.27,Good,9,Low,0.82,3609,7.4,"Linear Regression, Neural Networks, Deep Learning",True,Easy,2,0.89,0.6
+27,80283,Suburban,Hybrid,Hearing,36,Intermediate,92.4,Average,9,Medium,0.71,15116,1.4,"Algorithms, Data Structures, System Design",True,Medium,8,0.93,0.31
+29,48830,Suburban,Hybrid,Kinesthetic,13,Beginner,54.53,Good,4,High,0.86,2838,5.1,"Linear Regression, Neural Networks, Deep Learning",True,Medium,14,0.67,0.3
+26,57211,Urban,Online,Hearing,12,Beginner,63.13,Poor,5,Medium,0.69,8574,6.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,5,0.16,0.68
+31,61746,Suburban,Offline,Visual,2,Beginner,50.93,Good,4,High,0.81,3769,8.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,8,0.13,0.65
+24,87844,Urban,Online,Hearing,33,Advanced,65.69,Average,5,High,0.74,3307,2.5,"Linear Regression, Neural Networks, Deep Learning",True,Hard,1,0.97,0.7
+28,39934,Rural,Hybrid,Kinesthetic,12,Beginner,69.18,Average,7,Low,0.56,14615,2.1,"Algorithms, Data Structures, System Design",False,Medium,4,0.51,0.71
+18,82796,Rural,Hybrid,Hearing,34,Advanced,60.92,Good,8,Low,0.57,7680,8.0,"Linear Regression, Neural Networks, Deep Learning",True,Hard,1,0.61,0.56
+30,93347,Suburban,Hybrid,Visual,3,Advanced,99.58,Poor,2,Medium,0.52,16547,1.7,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,4,0.29,0.11
+29,12124,Urban,Online,Hearing,18,Advanced,84.14,Good,9,High,0.62,1464,4.4,"Linear Regression, Neural Networks, Deep Learning",False,Medium,12,0.03,0.37
+28,98451,Rural,Online,Hearing,19,Intermediate,91.57,Average,5,Low,0.88,1916,9.5,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,5,0.22,0.54
+23,11255,Rural,Hybrid,Visual,9,Intermediate,55.31,Good,4,Medium,0.72,17393,7.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,11,0.07,0.21
+21,62778,Urban,Offline,Visual,29,Advanced,79.75,Poor,6,High,0.71,8468,7.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,10,0.36,0.64
+23,30201,Suburban,Offline,Visual,10,Advanced,60.37,Good,8,Low,0.67,15660,10.0,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,1,0.78,0.38
+24,88227,Urban,Online,Kinesthetic,10,Advanced,51.11,Average,6,Low,0.57,12878,4.6,"Algorithms, Data Structures, System Design",False,Easy,14,0.33,0.62
+29,83402,Urban,Online,Visual,18,Advanced,56.75,Poor,3,Medium,0.69,13398,5.4,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,13,0.34,0.86
+27,28873,Rural,Online,Hearing,34,Intermediate,70.44,Average,6,Low,0.64,8777,6.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,12,0.18,0.89
+21,99247,Urban,Online,Hearing,12,Advanced,57.4,Average,9,High,0.79,19943,6.2,"Algorithms, Data Structures, System Design",False,Medium,0,0.29,0.4
+29,24653,Rural,Online,Hearing,36,Beginner,94.7,Average,2,Medium,0.8,6588,7.7,"Algorithms, Data Structures, System Design",True,Medium,5,0.25,0.45
+32,22700,Rural,Hybrid,Kinesthetic,38,Beginner,93.99,Good,2,Low,0.74,12464,5.0,"Linear Regression, Neural Networks, Deep Learning",False,Hard,5,0.91,0.76
+30,51982,Suburban,Online,Visual,14,Beginner,86.48,Good,9,Low,0.64,7462,8.4,"Algorithms, Data Structures, System Design",False,Medium,6,0.46,0.33
+22,30233,Suburban,Offline,Hearing,12,Advanced,99.07,Good,9,Medium,0.92,11284,9.0,"Algorithms, Data Structures, System Design",True,Hard,2,0.72,0.34
+25,57899,Rural,Offline,Hearing,37,Beginner,76.91,Good,1,Medium,0.98,14211,9.7,"Statistical Analysis, Data Visualization, Data Cleaning",False,Hard,1,0.41,0.26
+21,87889,Suburban,Offline,Kinesthetic,3,Intermediate,93.85,Poor,8,Medium,0.69,1645,9.2,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,5,0.04,0.54
+19,91190,Rural,Offline,Kinesthetic,10,Intermediate,89.79,Poor,9,High,0.93,7243,3.0,"Algorithms, Data Structures, System Design",True,Easy,3,0.98,0.52
+20,98009,Rural,Offline,Hearing,39,Intermediate,52.51,Poor,5,High,0.65,10904,2.8,"Linear Regression, Neural Networks, Deep Learning",False,Easy,14,0.73,0.45
+26,12510,Urban,Hybrid,Kinesthetic,25,Beginner,98.8,Good,2,High,0.73,5914,5.2,"Algorithms, Data Structures, System Design",False,Hard,13,0.1,0.37
+30,83837,Urban,Hybrid,Visual,30,Intermediate,61.13,Poor,3,High,0.93,10296,9.7,"Linear Regression, Neural Networks, Deep Learning",True,Easy,10,0.4,0.04
+24,40239,Suburban,Offline,Hearing,9,Advanced,95.48,Poor,3,Medium,0.8,17500,2.4,"Algorithms, Data Structures, System Design",False,Easy,10,0.03,0.13
+23,13492,Suburban,Hybrid,Visual,19,Beginner,80.13,Average,8,High,0.71,5658,2.4,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,2,0.84,0.82
+27,32691,Suburban,Offline,Kinesthetic,34,Intermediate,75.34,Poor,7,Low,0.92,2077,7.9,"Linear Regression, Neural Networks, Deep Learning",False,Easy,10,0.44,0.96
+33,21015,Urban,Hybrid,Kinesthetic,3,Intermediate,94.77,Good,3,Low,0.73,17989,8.2,"Algorithms, Data Structures, System Design",False,Medium,9,0.13,0.02
+34,85975,Urban,Hybrid,Visual,12,Advanced,71.41,Average,2,Medium,0.65,5904,1.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,0,0.69,0.5
+30,98826,Suburban,Hybrid,Hearing,22,Advanced,84.24,Good,5,High,0.79,7671,8.2,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,12,0.64,0.26
+25,32063,Rural,Offline,Kinesthetic,38,Beginner,71.7,Average,1,Medium,0.91,13913,5.9,"Linear Regression, Neural Networks, Deep Learning",False,Medium,12,0.58,0.0
+27,86231,Rural,Offline,Visual,4,Intermediate,52.38,Average,8,Low,0.92,6452,9.2,"Algorithms, Data Structures, System Design",False,Medium,4,0.28,0.23
+20,14653,Rural,Hybrid,Visual,30,Advanced,67.36,Poor,9,Medium,0.9,6812,3.2,"Linear Regression, Neural Networks, Deep Learning",False,Hard,1,0.69,0.21
+27,61597,Suburban,Hybrid,Hearing,18,Advanced,90.01,Average,9,Low,0.77,4882,5.0,"Linear Regression, Neural Networks, Deep Learning",True,Hard,13,0.15,0.47
+25,73889,Urban,Online,Hearing,6,Advanced,71.27,Good,5,Low,0.84,17430,9.2,"Linear Regression, Neural Networks, Deep Learning",False,Easy,10,0.31,0.89
+33,21377,Rural,Hybrid,Hearing,8,Intermediate,59.42,Poor,7,High,0.96,11232,7.2,"Algorithms, Data Structures, System Design",False,Medium,3,0.53,0.79
+22,48551,Rural,Online,Kinesthetic,4,Beginner,56.86,Poor,1,Medium,0.53,2329,4.7,"Linear Regression, Neural Networks, Deep Learning",False,Medium,12,0.85,0.09
+30,80106,Urban,Online,Kinesthetic,32,Intermediate,97.92,Average,2,Medium,0.54,9945,5.1,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,5,0.9,0.38
+34,87407,Rural,Online,Hearing,3,Advanced,82.01,Average,9,Low,0.86,4215,1.7,"Linear Regression, Neural Networks, Deep Learning",False,Easy,11,0.67,0.31
+21,47856,Urban,Offline,Kinesthetic,25,Advanced,80.27,Good,6,Medium,0.9,6404,6.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Easy,1,0.16,0.75
+20,69307,Urban,Hybrid,Kinesthetic,7,Advanced,82.75,Average,6,High,0.68,7661,8.8,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,7,0.78,0.23
+26,89786,Suburban,Offline,Visual,2,Intermediate,72.97,Average,6,High,0.6,5194,4.3,"Statistical Analysis, Data Visualization, Data Cleaning",False,Easy,8,0.45,0.89
+33,86774,Rural,Online,Hearing,14,Advanced,70.98,Poor,2,Low,0.54,13458,7.1,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,4,0.83,0.96
+18,10808,Suburban,Offline,Hearing,23,Intermediate,81.57,Average,2,Medium,0.9,17670,2.9,"Statistical Analysis, Data Visualization, Data Cleaning",True,Medium,11,0.86,0.13
+34,61125,Suburban,Offline,Visual,25,Beginner,95.04,Average,6,Medium,0.58,19937,7.3,"Algorithms, Data Structures, System Design",True,Easy,14,0.06,0.17
+24,52898,Urban,Offline,Hearing,10,Advanced,93.29,Good,3,Medium,0.61,17546,1.3,"Linear Regression, Neural Networks, Deep Learning",False,Hard,14,0.08,0.61
+18,21771,Rural,Offline,Visual,34,Intermediate,97.53,Poor,9,High,0.55,19674,7.6,"Statistical Analysis, Data Visualization, Data Cleaning",True,Hard,8,0.42,0.59
+21,35001,Urban,Online,Visual,7,Advanced,88.38,Good,2,Medium,0.52,2157,2.9,"Linear Regression, Neural Networks, Deep Learning",True,Easy,6,0.44,0.82
+24,28380,Rural,Offline,Visual,12,Advanced,63.99,Poor,1,Medium,0.95,6133,3.7,"Linear Regression, Neural Networks, Deep Learning",False,Hard,12,0.28,0.78
+23,10405,Rural,Offline,Kinesthetic,11,Beginner,57.83,Good,3,Low,0.88,7021,3.8,"Statistical Analysis, Data Visualization, Data Cleaning",False,Medium,0,0.75,0.81
+20,66941,Urban,Hybrid,Visual,1,Advanced,80.46,Good,3,High,0.52,3796,1.2,"Linear Regression, Neural Networks, Deep Learning",True,Medium,8,0.14,0.92
+34,23072,Urban,Hybrid,Visual,6,Advanced,68.99,Average,7,Low,0.96,5694,2.3,"Algorithms, Data Structures, System Design",False,Medium,14,0.61,0.64
+29,83251,Suburban,Offline,Kinesthetic,37,Beginner,98.75,Poor,2,Medium,0.93,14682,1.5,"Linear Regression, Neural Networks, Deep Learning",False,Hard,10,0.7,0.24
