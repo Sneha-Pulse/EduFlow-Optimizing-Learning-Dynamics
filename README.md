@@ -1,4 +1,4 @@
-### EduFlow-Optimizing-Learning-Dynamics
+# EduFlow-Optimizing-Learning-Dynamics
 
 #### Project's Title
 
