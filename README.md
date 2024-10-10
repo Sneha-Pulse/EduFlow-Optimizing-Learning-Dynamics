@@ -4,7 +4,7 @@
 
 **EduFlow-Optimizing-Learning-Dynamics**
 
-This project aims to enhance student retention and success rates in higher education institutions by leveraging predictive analytics to identify at-risk students early in their academic journey and implement targeted interventions. The project utilizes Intervention Targeting, Student Engagement Analysis, and Content Difficulty Prediction to achieve these goals [citation:1].
+This project aims to enhance student retention and success rates in higher education institutions by leveraging predictive analytics to identify at-risk students early in their academic journey and implement targeted interventions. The project utilizes Intervention Targeting, Student Engagement Analysis, and Content Difficulty Prediction to achieve these goals.
 
 #### Project Description
 
