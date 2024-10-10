@@ -37,6 +37,9 @@ To run the EduFlow-Optimizing-Learning-Dynamics project on your local machine, f
 4. **Open in Browser:**
    Open your browser and navigate to `http://localhost:8501` to access the application.
 
+![image](https://github.com/user-attachments/assets/b636f8f0-d8cd-407b-a07d-e218e57e82ed)
+   
+
 #### How to Use the Project
 
 1. **Upload Dataset:**
