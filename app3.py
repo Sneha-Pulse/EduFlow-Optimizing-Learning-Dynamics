@@ -129,7 +129,7 @@ def main():
         df = load_and_preprocess_data(uploaded_file)
         
         if selected == "Home":
-            st.title("EduFlow-Optimizing-Learning-Dynamics")
+            st.title("EduFlow-Optimizing-Learning-Dynamics Public")
             
             # 1. Identify Domain & Problem Statement:
             st.markdown("**Domain:** Education")
@@ -249,6 +249,7 @@ def main():
                 st.write(f"**Inference for {selected_model}:**")
                 st.write(model_inference(selected_model))
             
+
         
         elif selected == "Engagement Prediction":
             st.title("Engagement Prediction")
@@ -301,6 +302,11 @@ def main():
             if st.button("Show Inference - Engagement"):
                 st.write(f"**Inference for {selected_model} - Engagement:**")
                 st.write(model_inference(selected_model))
+            
+            if st.button("Conclusion - Engagement"):
+                st.write("**Conclusion:**")
+                st.write("The model's performance in predicting student engagement levels is crucial for designing effective learning interventions. "
+                         "By understanding engagement patterns, educators can tailor resources and support to improve student participation and motivation.")
             
             # Define features and target variable
             difficulty_features = ['Content Difficulty Level', 'Correct Response Rate', 'Response Time (ms)']
