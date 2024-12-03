@@ -12,7 +12,6 @@ EduFlow-Optimizing-Learning-Dynamics is designed to address the challenge of ide
 
 - **Student Intervention Prediction:** Analyzes factors like intervention flags, help requests, and tutor sessions to predict which students are likely to benefit from additional support or resources.
 - **Engagement Prediction:** Examines engagement with supplemental resources and adaptive learning features to predict levels of student engagement and design interventions to enhance participation and motivation.
-- **Content Difficulty Prediction:** Evaluates content difficulty levels, correct response rates, and response times to predict the difficulty of educational content and adapt learning paths accordingly.
 
 #### How to Install and Run the Project
 
