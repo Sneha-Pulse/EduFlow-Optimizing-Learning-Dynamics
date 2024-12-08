@@ -1,8 +1,9 @@
 # EduFlow-Optimizing-Learning-Dynamics
 
-#### Project's Title
+![Ed](https://github.com/user-attachments/assets/5196a25e-d84d-49a7-a1b4-4f670bb31fa6)
 
-**EduFlow-Optimizing-Learning-Dynamics**
+
+## **EduFlow-Optimizing-Learning-Dynamics**
 
 This project aims to enhance student retention and success rates in higher education institutions by leveraging predictive analytics to identify at-risk students early in their academic journey and implement targeted interventions. The project utilizes Intervention Targeting, Student Engagement Analysis, and Content Difficulty Prediction to achieve these goals.
 
