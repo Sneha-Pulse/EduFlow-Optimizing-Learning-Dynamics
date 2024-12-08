@@ -1,6 +1,7 @@
 # EduFlow-Optimizing-Learning-Dynamics
 
-![Ed](https://github.com/user-attachments/assets/5196a25e-d84d-49a7-a1b4-4f670bb31fa6)
+![edd](https://github.com/user-attachments/assets/1206572f-8ed0-4b1b-b9ee-d420a87eedf8)
+
 
 
 ## **EduFlow-Optimizing-Learning-Dynamics**
